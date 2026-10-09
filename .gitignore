@@ -1,0 +1,7 @@
+# Binarios y objetos
+*.o
+meeseeks
+box
+# Temporales
+*.log
+*~
