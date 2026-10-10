@@ -91,6 +91,7 @@ static void registrar(int N) {
 
 /* Cada Meeseeks se da de baja al desaparecer, una sola vez por proceso */
 static volatile sig_atomic_t ya_desregistrado = 0;
+static volatile sig_atomic_t despedido = 0;   /* 1 = ya imprimi mi despedida */
 
 static void desregistrar(void) {
     if (ya_desregistrado) return;
@@ -258,16 +259,19 @@ static double esperar_trabajo(void) {
    se despide y desaparece */
 static void al_terminar(int sig) {
     (void)sig;
-    for (int k = 0; k < num_hijos; k++) kill(mis_hijos[k], SIGTERM);  /* propaga hacia abajo */
-    while (wait(NULL) > 0);   /* los hijos se despiden primero: nadie queda huerfano */
-    char msg[128];
-    int n = snprintf(msg, sizeof(msg),
-        "[pid %d, ppid %d] Me piden terminar. Gracias por servirte, adios!\n",
-        getpid(), getppid());
-    ssize_t w = write(STDOUT_FILENO, msg, n);   /* write y no printf: seguro en un manejador */
-    (void)w;
+    for (int k = 0; k < num_hijos; k++) kill(mis_hijos[k], SIGTERM);
+    while (wait(NULL) > 0);
+    if (!despedido) {                 /* si ya me despedi como resolvedor, no repito */
+        despedido = 1;
+        char msg[128];
+        int n = snprintf(msg, sizeof(msg),
+            "[pid %d, ppid %d] Me piden terminar. Gracias por servirte, adios!\n",
+            getpid(), getppid());
+        ssize_t w = write(STDOUT_FILENO, msg, n);
+        (void)w;
+    }
     desregistrar();
-    _exit(EXIT_FAILURE);   /* _exit: no vacia buffers heredados del padre */
+    _exit(EXIT_FAILURE);
 }
 
 /* Crea los hijos (todos juntos, en paralelo), les manda la solicitud por el pipe
@@ -388,6 +392,7 @@ static Reporte meeseeks_arbol(const char *solicitud, double D, int N, int i) {
     int hijos_necesarios = (D <= 45.0) ? 5 : 2;
 
     if (D > 85.0 || rand01() * 100.0 < D * NERF_DADO) {
+        despedido = 1;
         printf("[pid %d] Resolvi la tarea\n", getpid());
         printf("[pid %d, ppid %d] Mision cumplida. Gracias por servirte, adios!\n", getpid(), getppid());
         fflush(stdout);
@@ -406,6 +411,7 @@ static Reporte meeseeks_arbol(const char *solicitud, double D, int N, int i) {
     Reporte r = crear_hijos(solicitud, D, N);
     if (r.resuelto) {   /* un descendiente resolvio: yo tambien me despido */
         r.espera_ruta += mi_espera;   /* sumo mi espera a la ruta ganadora */
+        despedido = 1;
         printf("[pid %d, ppid %d] Mision cumplida. Gracias por servirte, adios!\n", getpid(), getppid());
         fflush(stdout);
     }
