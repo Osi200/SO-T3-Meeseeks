@@ -1,0 +1,607 @@
+Box> Tiempo fijo: 0.50 s
+Box> Dificultad fija: 0.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (9353, 9351, 1, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9354, 9353, 2, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9355, 9353, 2, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9356, 9353, 2, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9358, 9353, 2, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9357, 9353, 2, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9360, 9354, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9372, 9358, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9376, 9358, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9367, 9354, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9370, 9358, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9368, 9358, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9361, 9354, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9364, 9355, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9383, 9355, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9362, 9354, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9377, 9356, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9374, 9358, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9375, 9356, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9363, 9355, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9380, 9357, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9381, 9357, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9373, 9356, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9382, 9357, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9378, 9357, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9365, 9355, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9379, 9357, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9371, 9356, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9366, 9354, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9369, 9356, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9385, 9355, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9425, 9360, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9426, 9360, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9427, 9360, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9428, 9360, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9429, 9360, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9430, 9372, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9431, 9372, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9432, 9372, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9433, 9372, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9434, 9372, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9435, 9376, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9436, 9376, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9437, 9376, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9439, 9376, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9441, 9376, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9440, 9383, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9438, 9383, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9445, 9367, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9446, 9383, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9447, 9367, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9448, 9367, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9450, 9370, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9451, 9364, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9455, 9364, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9443, 9367, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9457, 9370, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9454, 9370, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9459, 9364, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9460, 9361, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9461, 9361, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9456, 9370, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9462, 9361, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9452, 9370, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9463, 9361, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9453, 9364, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9449, 9367, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9464, 9361, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9458, 9364, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9442, 9383, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9465, 9368, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9467, 9362, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9468, 9362, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9469, 9362, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9483, 9374, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9485, 9365, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9444, 9383, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9487, 9365, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9488, 9375, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9481, 9365, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9489, 9375, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9484, 9365, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9470, 9362, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9490, 9375, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9478, 9365, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9471, 9362, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9474, 9377, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9476, 9377, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9479, 9377, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9482, 9377, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9494, 9373, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9496, 9373, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9497, 9373, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9495, 9373, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9498, 9382, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9499, 9363, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9493, 9373, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9501, 9363, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9500, 9382, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9502, 9382, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9503, 9363, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9504, 9382, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9505, 9363, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9506, 9382, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9508, 9378, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9507, 9380, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9511, 9380, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9509, 9378, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9514, 9378, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9515, 9380, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9517, 9380, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9516, 9371, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9519, 9381, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9520, 9381, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9518, 9371, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9521, 9371, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9522, 9381, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9524, 9381, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9525, 9371, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9527, 9366, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9526, 9381, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9528, 9366, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9530, 9366, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9529, 9379, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9531, 9366, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9532, 9366, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9533, 9379, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9534, 9369, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9535, 9379, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9536, 9369, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9537, 9379, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9538, 9369, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9540, 9369, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9539, 9379, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9541, 9369, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9542, 9385, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9543, 9385, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9544, 9385, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9492, 9363, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9491, 9375, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9545, 9385, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9546, 9385, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9472, 9377, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9547, 9368, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9473, 9374, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9548, 9368, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9549, 9368, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9466, 9368, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9475, 9374, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9486, 9375, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9513, 9380, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9512, 9378, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9480, 9374, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9523, 9371, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9477, 9374, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9510, 9378, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9562, 9427, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9556, 9427, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9558, 9425, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9555, 9425, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9569, 9428, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9550, 9425, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9566, 9428, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9570, 9429, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9565, 9428, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9572, 9428, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9561, 9426, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9559, 9427, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9560, 9425, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9577, 9430, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9578, 9430, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9579, 9441, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9580, 9431, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9581, 9441, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9582, 9430, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9597, 9434, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9573, 9429, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9583, 9431, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9588, 9431, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9591, 9431, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9593, 9431, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9596, 9433, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9606, 9433, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9599, 9433, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9587, 9432, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9602, 9433, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9603, 9434, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9605, 9434, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9607, 9445, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9608, 9433, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9609, 9446, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9623, 9437, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9612, 9437, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9589, 9432, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9613, 9446, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9614, 9436, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9617, 9437, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9619, 9446, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9621, 9437, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9622, 9436, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9592, 9432, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9625, 9436, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9626, 9435, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9628, 9440, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9627, 9439, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9630, 9440, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9632, 9435, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9594, 9432, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9633, 9440, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9635, 9435, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9631, 9439, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9600, 9434, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9610, 9434, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9554, 9427, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9638, 9440, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9653, 9447, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9680, 9463, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9644, 9438, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9636, 9440, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9567, 9428, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9551, 9427, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9677, 9457, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9571, 9429, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9642, 9448, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9661, 9447, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9664, 9455, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9665, 9463, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9639, 9439, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9668, 9455, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9564, 9426, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9669, 9455, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9640, 9448, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9557, 9426, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9672, 9463, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9575, 9429, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9685, 9449, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9641, 9438, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9584, 9441, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9552, 9426, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9586, 9441, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9643, 9448, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9686, 9449, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9676, 9468, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9687, 9449, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9590, 9441, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9679, 9468, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9645, 9448, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9688, 9449, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9681, 9468, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9647, 9448, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9682, 9468, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9595, 9445, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9649, 9450, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9598, 9445, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9650, 9438, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9601, 9445, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9651, 9450, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9652, 9450, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9604, 9445, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9654, 9450, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9611, 9446, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9655, 9447, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9616, 9446, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9657, 9447, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9624, 9435, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9658, 9451, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9659, 9447, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9629, 9435, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9660, 9451, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9662, 9451, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9663, 9451, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9574, 9430, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9615, 9437, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9576, 9430, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9618, 9436, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9585, 9432, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9620, 9436, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9634, 9439, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9666, 9455, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9675, 9463, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9637, 9439, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9678, 9463, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9646, 9438, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9648, 9438, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9656, 9450, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9667, 9455, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9670, 9457, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9671, 9457, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9673, 9457, 5, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9674, 9457, 5, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9568, 9429, 5, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9684, 9451, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9563, 9425, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9553, 9426, 5, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9683, 9468, 5, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (9689, 9449, 5, 5) D=0.0
+CAOS PLANETARIO: se acabo el tiempo (30 s). Terminando todo.
+[pid 9471, ppid 9362] Me piden terminar. Gracias por servirte, adios!
+[pid 9470, ppid 9362] Me piden terminar. Gracias por servirte, adios!
+[pid 9452, ppid 9370] Me piden terminar. Gracias por servirte, adios!
+[pid 9443, ppid 9367] Me piden terminar. Gracias por servirte, adios!
+[pid 9454, ppid 9370] Me piden terminar. Gracias por servirte, adios!
+[pid 9456, ppid 9370] Me piden terminar. Gracias por servirte, adios!
+[pid 9467, ppid 9362] Me piden terminar. Gracias por servirte, adios!
+[pid 9687, ppid 9449] Me piden terminar. Gracias por servirte, adios!
+[pid 9469, ppid 9362] Me piden terminar. Gracias por servirte, adios!
+[pid 9676, ppid 9468] Me piden terminar. Gracias por servirte, adios!
+[pid 9679, ppid 9468] Me piden terminar. Gracias por servirte, adios!
+[pid 9473, ppid 9374] Me piden terminar. Gracias por servirte, adios!
+[pid 9483, ppid 9374] Me piden terminar. Gracias por servirte, adios!
+[pid 9653, ppid 9447] Me piden terminar. Gracias por servirte, adios!
+[pid 9681, ppid 9468] Me piden terminar. Gracias por servirte, adios!
+[pid 9682, ppid 9468] Me piden terminar. Gracias por servirte, adios!
+[pid 9460, ppid 9361] Me piden terminar. Gracias por servirte, adios!
+[pid 9475, ppid 9374] Me piden terminar. Gracias por servirte, adios!
+[pid 9683, ppid 9468] Me piden terminar. Gracias por servirte, adios!
+[pid 9461, ppid 9361] Me piden terminar. Gracias por servirte, adios!
+[pid 9453, ppid 9364] Me piden terminar. Gracias por servirte, adios!
+[pid 9477, ppid 9374] Me piden terminar. Gracias por servirte, adios!
+[pid 9462, ppid 9361] Me piden terminar. Gracias por servirte, adios!
+[pid 9551, ppid 9427] Me piden terminar. Gracias por servirte, adios!
+[pid 9480, ppid 9374] Me piden terminar. Gracias por servirte, adios!
+[pid 9458, ppid 9364] Me piden terminar. Gracias por servirte, adios!
+[pid 9658, ppid 9451] Me piden terminar. Gracias por servirte, adios!
+[pid 9554, ppid 9427] Me piden terminar. Gracias por servirte, adios!
+[pid 9662, ppid 9451] Me piden terminar. Gracias por servirte, adios!
+[pid 9527, ppid 9366] Me piden terminar. Gracias por servirte, adios!
+[pid 9556, ppid 9427] Me piden terminar. Gracias por servirte, adios!
+[pid 9464, ppid 9361] Me piden terminar. Gracias por servirte, adios!
+[pid 9663, ppid 9451] Me piden terminar. Gracias por servirte, adios!
+[pid 9528, ppid 9366] Me piden terminar. Gracias por servirte, adios!
+[pid 9559, ppid 9427] Me piden terminar. Gracias por servirte, adios!
+[pid 9547, ppid 9368] Me piden terminar. Gracias por servirte, adios!
+[pid 9530, ppid 9366] Me piden terminar. Gracias por servirte, adios!
+[pid 9670, ppid 9457] Me piden terminar. Gracias por servirte, adios!
+[pid 9562, ppid 9427] Me piden terminar. Gracias por servirte, adios!
+[pid 9535, ppid 9379] Me piden terminar. Gracias por servirte, adios!
+[pid 9531, ppid 9366] Me piden terminar. Gracias por servirte, adios!
+[pid 9580, ppid 9431] Me piden terminar. Gracias por servirte, adios!
+[pid 9537, ppid 9379] Me piden terminar. Gracias por servirte, adios!
+[pid 9532, ppid 9366] Me piden terminar. Gracias por servirte, adios!
+[pid 9649, ppid 9450] Me piden terminar. Gracias por servirte, adios!
+[pid 9583, ppid 9431] Me piden terminar. Gracias por servirte, adios!
+[pid 9568, ppid 9429] Me piden terminar. Gracias por servirte, adios!
+[pid 9540, ppid 9369] Me piden terminar. Gracias por servirte, adios!
+[pid 9651, ppid 9450] Me piden terminar. Gracias por servirte, adios!
+[pid 9588, ppid 9431] Me piden terminar. Gracias por servirte, adios!
+[pid 9570, ppid 9429] Me piden terminar. Gracias por servirte, adios!
+[pid 9516, ppid 9371] Me piden terminar. Gracias por servirte, adios!
+[pid 9652, ppid 9450] Me piden terminar. Gracias por servirte, adios!
+[pid 9591, ppid 9431] Me piden terminar. Gracias por servirte, adios!
+[pid 9571, ppid 9429] Me piden terminar. Gracias por servirte, adios!
+[pid 9521, ppid 9371] Me piden terminar. Gracias por servirte, adios!
+[pid 9656, ppid 9450] Me piden terminar. Gracias por servirte, adios!
+[pid 9593, ppid 9431] Me piden terminar. Gracias por servirte, adios!
+[pid 9493, ppid 9373] Me piden terminar. Gracias por servirte, adios!
+[pid 9573, ppid 9429] Me piden terminar. Gracias por servirte, adios!
+[pid 9671, ppid 9457] Me piden terminar. Gracias por servirte, adios!
+[pid 9596, ppid 9433] Me piden terminar. Gracias por servirte, adios!
+[pid 9495, ppid 9373] Me piden terminar. Gracias por servirte, adios!
+[pid 9575, ppid 9429] Me piden terminar. Gracias por servirte, adios!
+[pid 9673, ppid 9457] Me piden terminar. Gracias por servirte, adios!
+[pid 9602, ppid 9433] Me piden terminar. Gracias por servirte, adios!
+[pid 9654, ppid 9450] Me piden terminar. Gracias por servirte, adios!
+[pid 9520, ppid 9381] Me piden terminar. Gracias por servirte, adios!
+[pid 9674, ppid 9457] Me piden terminar. Gracias por servirte, adios!
+[pid 9606, ppid 9433] Me piden terminar. Gracias por servirte, adios!
+[pid 9595, ppid 9445] Me piden terminar. Gracias por servirte, adios!
+[pid 9524, ppid 9381] Me piden terminar. Gracias por servirte, adios!
+[pid 9608, ppid 9433] Me piden terminar. Gracias por servirte, adios!
+[pid 9677, ppid 9457] Me piden terminar. Gracias por servirte, adios!
+[pid 9474, ppid 9377] Me piden terminar. Gracias por servirte, adios!
+[pid 9574, ppid 9430] Me piden terminar. Gracias por servirte, adios!
+[pid 9555, ppid 9425] Me piden terminar. Gracias por servirte, adios!
+[pid 9598, ppid 9445] Me piden terminar. Gracias por servirte, adios!
+[pid 9476, ppid 9377] Me piden terminar. Gracias por servirte, adios!
+[pid 9576, ppid 9430] Me piden terminar. Gracias por servirte, adios!
+[pid 9558, ppid 9425] Me piden terminar. Gracias por servirte, adios!
+[pid 9601, ppid 9445] Me piden terminar. Gracias por servirte, adios!
+[pid 9479, ppid 9377] Me piden terminar. Gracias por servirte, adios!
+[pid 9585, ppid 9432] Me piden terminar. Gracias por servirte, adios!
+[pid 9560, ppid 9425] Me piden terminar. Gracias por servirte, adios!
+[pid 9604, ppid 9445] Me piden terminar. Gracias por servirte, adios!
+[pid 9482, ppid 9377] Me piden terminar. Gracias por servirte, adios!
+[pid 9587, ppid 9432] Me piden terminar. Gracias por servirte, adios!
+[pid 9577, ppid 9430] Me piden terminar. Gracias por servirte, adios!
+[pid 9607, ppid 9445] Me piden terminar. Gracias por servirte, adios!
+[pid 9589, ppid 9432] Me piden terminar. Gracias por servirte, adios!
+[pid 9578, ppid 9430] Me piden terminar. Gracias por servirte, adios!
+[pid 9478, ppid 9365] Me piden terminar. Gracias por servirte, adios!
+[pid 9592, ppid 9432] Me piden terminar. Gracias por servirte, adios!
+[pid 9582, ppid 9430] Me piden terminar. Gracias por servirte, adios!
+[pid 9594, ppid 9432] Me piden terminar. Gracias por servirte, adios!
+[pid 9481, ppid 9365] Me piden terminar. Gracias por servirte, adios!
+[pid 9597, ppid 9434] Me piden terminar. Gracias por servirte, adios!
+[pid 9600, ppid 9434] Me piden terminar. Gracias por servirte, adios!
+[pid 9484, ppid 9365] Me piden terminar. Gracias por servirte, adios!
+[pid 9553, ppid 9426] Me piden terminar. Gracias por servirte, adios!
+[pid 9603, ppid 9434] Me piden terminar. Gracias por servirte, adios!
+[pid 9605, ppid 9434] Me piden terminar. Gracias por servirte, adios!
+[pid 9485, ppid 9365] Me piden terminar. Gracias por servirte, adios!
+[pid 9565, ppid 9428] Me piden terminar. Gracias por servirte, adios!
+[pid 9610, ppid 9434] Me piden terminar. Gracias por servirte, adios!
+[pid 9567, ppid 9428] Me piden terminar. Gracias por servirte, adios!
+[pid 9487, ppid 9365] Me piden terminar. Gracias por servirte, adios!
+[pid 9552, ppid 9426] Me piden terminar. Gracias por servirte, adios!
+[pid 9642, ppid 9448] Me piden terminar. Gracias por servirte, adios!
+[pid 9685, ppid 9449] Me piden terminar. Gracias por servirte, adios!
+[pid 9365, ppid 9355] Me piden terminar. Gracias por servirte, adios!
+[pid 9686, ppid 9449] Me piden terminar. Gracias por servirte, adios!
+[pid 9557, ppid 9426] Me piden terminar. Gracias por servirte, adios!
+[pid 9645, ppid 9448] Me piden terminar. Gracias por servirte, adios!
+[pid 9688, ppid 9449] Me piden terminar. Gracias por servirte, adios!
+[pid 9561, ppid 9426] Me piden terminar. Gracias por servirte, adios!
+[pid 9689, ppid 9449] Me piden terminar. Gracias por servirte, adios!
+[pid 9647, ppid 9448] Me piden terminar. Gracias por servirte, adios!
+[pid 9564, ppid 9426] Me piden terminar. Gracias por servirte, adios!
+[pid 9599, ppid 9433] Me piden terminar. Gracias por servirte, adios!
+[pid 9492, ppid 9363] Me piden terminar. Gracias por servirte, adios!
+[pid 9566, ppid 9428] Me piden terminar. Gracias por servirte, adios!
+[pid 9550, ppid 9425] Me piden terminar. Gracias por servirte, adios!
+[pid 9501, ppid 9363] Me piden terminar. Gracias por servirte, adios!
+[pid 9569, ppid 9428] Me piden terminar. Gracias por servirte, adios!
+[pid 9572, ppid 9428] Me piden terminar. Gracias por servirte, adios!
+[pid 9503, ppid 9363] Me piden terminar. Gracias por servirte, adios!
+[pid 9442, ppid 9383] Me piden terminar. Gracias por servirte, adios!
+[pid 9628, ppid 9440] Me piden terminar. Gracias por servirte, adios!
+[pid 9640, ppid 9448] Me piden terminar. Gracias por servirte, adios!
+[pid 9505, ppid 9363] Me piden terminar. Gracias por servirte, adios!
+[pid 9444, ppid 9383] Me piden terminar. Gracias por servirte, adios!
+[pid 9630, ppid 9440] Me piden terminar. Gracias por servirte, adios!
+[pid 9643, ppid 9448] Me piden terminar. Gracias por servirte, adios!
+[pid 9563, ppid 9425] Me piden terminar. Gracias por servirte, adios!
+[pid 9459, ppid 9364] Me piden terminar. Gracias por servirte, adios!
+[pid 9633, ppid 9440] Me piden terminar. Gracias por servirte, adios!
+[pid 9543, ppid 9385] Me piden terminar. Gracias por servirte, adios!
+[pid 9660, ppid 9451] Me piden terminar. Gracias por servirte, adios!
+[pid 9508, ppid 9378] Me piden terminar. Gracias por servirte, adios!
+[pid 9545, ppid 9385] Me piden terminar. Gracias por servirte, adios!
+[pid 9509, ppid 9378] Me piden terminar. Gracias por servirte, adios!
+[pid 9533, ppid 9379] Me piden terminar. Gracias por servirte, adios!
+[pid 9684, ppid 9451] Me piden terminar. Gracias por servirte, adios!
+[pid 9510, ppid 9378] Me piden terminar. Gracias por servirte, adios!
+[pid 9538, ppid 9369] Me piden terminar. Gracias por servirte, adios!
+[pid 9541, ppid 9369] Me piden terminar. Gracias por servirte, adios!
+[pid 9512, ppid 9378] Me piden terminar. Gracias por servirte, adios!
+[pid 9614, ppid 9436] Me piden terminar. Gracias por servirte, adios!
+[pid 9451, ppid 9364] Me piden terminar. Gracias por servirte, adios!
+[pid 9514, ppid 9378] Me piden terminar. Gracias por servirte, adios!
+[pid 9511, ppid 9380] Me piden terminar. Gracias por servirte, adios!
+[pid 9618, ppid 9436] Me piden terminar. Gracias por servirte, adios!
+[pid 9498, ppid 9382] Me piden terminar. Gracias por servirte, adios!
+[pid 9513, ppid 9380] Me piden terminar. Gracias por servirte, adios!
+[pid 9620, ppid 9436] Me piden terminar. Gracias por servirte, adios!
+[pid 9517, ppid 9380] Me piden terminar. Gracias por servirte, adios!
+[pid 9625, ppid 9436] Me piden terminar. Gracias por servirte, adios!
+[pid 9500, ppid 9382] Me piden terminar. Gracias por servirte, adios!
+[pid 9672, ppid 9463] Me piden terminar. Gracias por servirte, adios!
+[pid 9502, ppid 9382] Me piden terminar. Gracias por servirte, adios!
+[pid 9465, ppid 9368] Me piden terminar. Gracias por servirte, adios!
+[pid 9466, ppid 9368] Me piden terminar. Gracias por servirte, adios!
+[pid 9504, ppid 9382] Me piden terminar. Gracias por servirte, adios!
+[pid 9548, ppid 9368] Me piden terminar. Gracias por servirte, adios!
+[pid 9506, ppid 9382] Me piden terminar. Gracias por servirte, adios!
+[pid 9675, ppid 9463] Me piden terminar. Gracias por servirte, adios!
+[pid 9549, ppid 9368] Me piden terminar. Gracias por servirte, adios!
+[pid 9542, ppid 9385] Me piden terminar. Gracias por servirte, adios!
+[pid 9523, ppid 9371] Me piden terminar. Gracias por servirte, adios!
+[pid 9544, ppid 9385] Me piden terminar. Gracias por servirte, adios!
+[pid 9678, ppid 9463] Me piden terminar. Gracias por servirte, adios!
+[pid 9546, ppid 9385] Me piden terminar. Gracias por servirte, adios!
+[pid 9525, ppid 9371] Me piden terminar. Gracias por servirte, adios!
+[pid 9680, ppid 9463] Me piden terminar. Gracias por servirte, adios!
+[pid 9612, ppid 9437] Me piden terminar. Gracias por servirte, adios!
+[pid 9499, ppid 9363] Me piden terminar. Gracias por servirte, adios!
+[pid 9472, ppid 9377] Me piden terminar. Gracias por servirte, adios!
+[pid 9615, ppid 9437] Me piden terminar. Gracias por servirte, adios!
+[pid 9636, ppid 9440] Me piden terminar. Gracias por servirte, adios!
+[pid 9624, ppid 9435] Me piden terminar. Gracias por servirte, adios!
+[pid 9617, ppid 9437] Me piden terminar. Gracias por servirte, adios!
+[pid 9621, ppid 9437] Me piden terminar. Gracias por servirte, adios!
+[pid 9626, ppid 9435] Me piden terminar. Gracias por servirte, adios!
+[pid 9368, ppid 9358] Me piden terminar. Gracias por servirte, adios!
+[pid 9623, ppid 9437] Me piden terminar. Gracias por servirte, adios!
+[pid 9629, ppid 9435] Me piden terminar. Gracias por servirte, adios!
+[pid 9627, ppid 9439] Me piden terminar. Gracias por servirte, adios!
+[pid 9632, ppid 9435] Me piden terminar. Gracias por servirte, adios!
+[pid 9450, ppid 9370] Me piden terminar. Gracias por servirte, adios!
+[pid 9631, ppid 9439] Me piden terminar. Gracias por servirte, adios!
+[pid 9635, ppid 9435] Me piden terminar. Gracias por servirte, adios!
+[pid 9634, ppid 9439] Me piden terminar. Gracias por servirte, adios!
+[pid 9637, ppid 9439] Me piden terminar. Gracias por servirte, adios!
+[pid 9579, ppid 9441] Me piden terminar. Gracias por servirte, adios!
+[pid 9377, ppid 9356] Me piden terminar. Gracias por servirte, adios!
+[pid 9639, ppid 9439] Me piden terminar. Gracias por servirte, adios!
+[pid 9581, ppid 9441] Me piden terminar. Gracias por servirte, adios!
+[pid 9468, ppid 9362] Me piden terminar. Gracias por servirte, adios!
+[pid 9486, ppid 9375] Me piden terminar. Gracias por servirte, adios!
+[pid 9366, ppid 9354] Me piden terminar. Gracias por servirte, adios!
+[pid 9584, ppid 9441] Me piden terminar. Gracias por servirte, adios!
+[pid 9586, ppid 9441] Me piden terminar. Gracias por servirte, adios!
+[pid 9385, ppid 9355] Me piden terminar. Gracias por servirte, adios!
+[pid 9488, ppid 9375] Me piden terminar. Gracias por servirte, adios!
+[pid 9489, ppid 9375] Me piden terminar. Gracias por servirte, adios!
+[pid 9590, ppid 9441] Me piden terminar. Gracias por servirte, adios!
+[pid 9430, ppid 9372] Me piden terminar. Gracias por servirte, adios!
+[pid 9622, ppid 9436] Me piden terminar. Gracias por servirte, adios!
+[pid 9490, ppid 9375] Me piden terminar. Gracias por servirte, adios!
+[pid 9491, ppid 9375] Me piden terminar. Gracias por servirte, adios!
+[pid 9529, ppid 9379] Me piden terminar. Gracias por servirte, adios!
+[pid 9641, ppid 9438] Me piden terminar. Gracias por servirte, adios!
+[pid 9534, ppid 9369] Me piden terminar. Gracias por servirte, adios!
+[pid 9375, ppid 9356] Me piden terminar. Gracias por servirte, adios!
+[pid 9644, ppid 9438] Me piden terminar. Gracias por servirte, adios!
+[pid 9432, ppid 9372] Me piden terminar. Gracias por servirte, adios!
+[pid 9646, ppid 9438] Me piden terminar. Gracias por servirte, adios!
+[pid 9536, ppid 9369] Me piden terminar. Gracias por servirte, adios!
+[pid 9436, ppid 9376] Me piden terminar. Gracias por servirte, adios!
+[pid 9648, ppid 9438] Me piden terminar. Gracias por servirte, adios!
+[pid 9539, ppid 9379] Me piden terminar. Gracias por servirte, adios!
+[pid 9369, ppid 9356] Me piden terminar. Gracias por servirte, adios!
+[pid 9650, ppid 9438] Me piden terminar. Gracias por servirte, adios!
+[pid 9507, ppid 9380] Me piden terminar. Gracias por servirte, adios!
+[pid 9362, ppid 9354] Me piden terminar. Gracias por servirte, adios!
+[pid 9664, ppid 9455] Me piden terminar. Gracias por servirte, adios!
+[pid 9449, ppid 9367] Me piden terminar. Gracias por servirte, adios!
+[pid 9518, ppid 9371] Me piden terminar. Gracias por servirte, adios!
+[pid 9515, ppid 9380] Me piden terminar. Gracias por servirte, adios!
+[pid 9371, ppid 9356] Me piden terminar. Gracias por servirte, adios!
+[pid 9666, ppid 9455] Me piden terminar. Gracias por servirte, adios!
+[pid 9494, ppid 9373] Me piden terminar. Gracias por servirte, adios!
+[pid 9667, ppid 9455] Me piden terminar. Gracias por servirte, adios!
+[pid 9496, ppid 9373] Me piden terminar. Gracias por servirte, adios!
+[pid 9668, ppid 9455] Me piden terminar. Gracias por servirte, adios!
+[pid 9519, ppid 9381] Me piden terminar. Gracias por servirte, adios!
+[pid 9427, ppid 9360] Me piden terminar. Gracias por servirte, adios!
+[pid 9669, ppid 9455] Me piden terminar. Gracias por servirte, adios!
+[pid 9497, ppid 9373] Me piden terminar. Gracias por servirte, adios!
+[pid 9522, ppid 9381] Me piden terminar. Gracias por servirte, adios!
+[pid 9455, ppid 9364] Me piden terminar. Gracias por servirte, adios!
+[pid 9425, ppid 9360] Me piden terminar. Gracias por servirte, adios!
+[pid 9373, ppid 9356] Me piden terminar. Gracias por servirte, adios!
+[pid 9526, ppid 9381] Me piden terminar. Gracias por servirte, adios!
+[pid 9665, ppid 9463] Me piden terminar. Gracias por servirte, adios!
+[pid 9356, ppid 9353] Me piden terminar. Gracias por servirte, adios!
+[pid 9433, ppid 9372] Me piden terminar. Gracias por servirte, adios!
+[pid 9638, ppid 9440] Me piden terminar. Gracias por servirte, adios!
+[pid 9655, ppid 9447] Me piden terminar. Gracias por servirte, adios!
+[pid 9463, ppid 9361] Me piden terminar. Gracias por servirte, adios!
+[pid 9431, ppid 9372] Me piden terminar. Gracias por servirte, adios!
+[pid 9609, ppid 9446] Me piden terminar. Gracias por servirte, adios!
+[pid 9657, ppid 9447] Me piden terminar. Gracias por servirte, adios!
+[pid 9611, ppid 9446] Me piden terminar. Gracias por servirte, adios!
+[pid 9439, ppid 9376] Me piden terminar. Gracias por servirte, adios!
+[pid 9659, ppid 9447] Me piden terminar. Gracias por servirte, adios!
+[pid 9613, ppid 9446] Me piden terminar. Gracias por servirte, adios!
+[pid 9661, ppid 9447] Me piden terminar. Gracias por servirte, adios!
+[pid 9616, ppid 9446] Me piden terminar. Gracias por servirte, adios!
+[pid 9440, ppid 9383] Me piden terminar. Gracias por servirte, adios!
+[pid 9361, ppid 9354] Me piden terminar. Gracias por servirte, adios!
+[pid 9619, ppid 9446] Me piden terminar. Gracias por servirte, adios!
+[pid 9447, ppid 9367] Me piden terminar. Gracias por servirte, adios!
+[pid 9380, ppid 9357] Me piden terminar. Gracias por servirte, adios!
+[pid 9437, ppid 9376] Me piden terminar. Gracias por servirte, adios!
+[pid 9374, ppid 9358] Me piden terminar. Gracias por servirte, adios!
+[pid 9438, ppid 9383] Me piden terminar. Gracias por servirte, adios!
+[pid 9445, ppid 9367] Me piden terminar. Gracias por servirte, adios!
+[pid 9457, ppid 9370] Me piden terminar. Gracias por servirte, adios!
+[pid 9364, ppid 9355] Me piden terminar. Gracias por servirte, adios!
+[pid 9429, ppid 9360] Me piden terminar. Gracias por servirte, adios!
+[pid 9382, ppid 9357] Me piden terminar. Gracias por servirte, adios!
+[pid 9370, ppid 9358] Me piden terminar. Gracias por servirte, adios!
+[pid 9446, ppid 9383] Me piden terminar. Gracias por servirte, adios!
+[pid 9441, ppid 9376] Me piden terminar. Gracias por servirte, adios!
+[pid 9434, ppid 9372] Me piden terminar. Gracias por servirte, adios!
+[pid 9379, ppid 9357] Me piden terminar. Gracias por servirte, adios!
+[pid 9428, ppid 9360] Me piden terminar. Gracias por servirte, adios!
+[pid 9372, ppid 9358] Me piden terminar. Gracias por servirte, adios!
+[pid 9426, ppid 9360] Me piden terminar. Gracias por servirte, adios!
+[pid 9378, ppid 9357] Me piden terminar. Gracias por servirte, adios!
+[pid 9448, ppid 9367] Me piden terminar. Gracias por servirte, adios!
+[pid 9435, ppid 9376] Me piden terminar. Gracias por servirte, adios!
+[pid 9363, ppid 9355] Me piden terminar. Gracias por servirte, adios!
+[pid 9383, ppid 9355] Me piden terminar. Gracias por servirte, adios!
+[pid 9367, ppid 9354] Me piden terminar. Gracias por servirte, adios!
+[pid 9360, ppid 9354] Me piden terminar. Gracias por servirte, adios!
+[pid 9381, ppid 9357] Me piden terminar. Gracias por servirte, adios!
+[pid 9376, ppid 9358] Me piden terminar. Gracias por servirte, adios!
+[pid 9355, ppid 9353] Me piden terminar. Gracias por servirte, adios!
+[pid 9354, ppid 9353] Me piden terminar. Gracias por servirte, adios!
+[pid 9357, ppid 9353] Me piden terminar. Gracias por servirte, adios!
+[pid 9358, ppid 9353] Me piden terminar. Gracias por servirte, adios!
+[pid 9353, ppid 9351] Me piden terminar. Gracias por servirte, adios!
+No completada (caos planetario) | Duración: 30.0545 s | sin esperas: 30.0545 s
+Meeseeks creados: 296 | nivel maximo: 5
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+  nivel 3: 25 Meeseeks
+  nivel 4: 125 Meeseeks
+  nivel 5: 140 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | caos planetario | total 30.055 s | real (sin esperas) 30.055 s | Meeseeks: 296
+Solicitudes: 1 | completadas: 0 | no completadas: 1
+Box terminó.
