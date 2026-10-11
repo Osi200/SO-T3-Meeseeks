@@ -1,0 +1,126 @@
+Box> Tiempo fijo: 0.50 s
+Box> Dificultad fija: 0.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (8315, 8313, 1, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8316, 8315, 2, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8317, 8315, 2, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8320, 8315, 2, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8319, 8315, 2, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8318, 8315, 2, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8327, 8316, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8325, 8316, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8336, 8319, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8333, 8319, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8342, 8318, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8344, 8318, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8346, 8320, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8326, 8317, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8322, 8316, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8324, 8317, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8323, 8317, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8341, 8318, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8345, 8320, 3, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8329, 8317, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8330, 8316, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8340, 8318, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8331, 8317, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8332, 8316, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8337, 8320, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8343, 8318, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8338, 8319, 3, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8339, 8319, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8347, 8320, 3, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8334, 8320, 3, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8335, 8319, 3, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8391, 8343, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8389, 8338, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8388, 8332, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8390, 8322, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8405, 8343, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8410, 8337, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8392, 8332, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8393, 8338, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8404, 8332, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8394, 8343, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8406, 8322, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8387, 8338, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8395, 8322, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8411, 8337, 4, 5) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8409, 8337, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8396, 8332, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8401, 8343, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8400, 8332, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8403, 8322, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8408, 8337, 4, 2) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8398, 8322, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8407, 8337, 4, 1) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8397, 8343, 4, 3) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8399, 8338, 4, 4) D=0.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (8402, 8338, 4, 5) D=0.0
+CAOS PLANETARIO: se acabo el tiempo (120 s). Terminando todo.
+[pid 8323, ppid 8317] Me piden terminar. Gracias por servirte, adios!
+[pid 8325, ppid 8316] Me piden terminar. Gracias por servirte, adios!
+[pid 8326, ppid 8317] Me piden terminar. Gracias por servirte, adios!
+[pid 8329, ppid 8317] Me piden terminar. Gracias por servirte, adios!
+[pid 8330, ppid 8316] Me piden terminar. Gracias por servirte, adios!
+[pid 8336, ppid 8319] Me piden terminar. Gracias por servirte, adios!
+[pid 8327, ppid 8316] Me piden terminar. Gracias por servirte, adios!
+[pid 8331, ppid 8317] Me piden terminar. Gracias por servirte, adios!
+[pid 8324, ppid 8317] Me piden terminar. Gracias por servirte, adios!
+[pid 8333, ppid 8319] Me piden terminar. Gracias por servirte, adios!
+[pid 8392, ppid 8332] Me piden terminar. Gracias por servirte, adios!
+[pid 8335, ppid 8319] Me piden terminar. Gracias por servirte, adios!
+[pid 8396, ppid 8332] Me piden terminar. Gracias por servirte, adios!
+[pid 8341, ppid 8318] Me piden terminar. Gracias por servirte, adios!
+[pid 8400, ppid 8332] Me piden terminar. Gracias por servirte, adios!
+[pid 8340, ppid 8318] Me piden terminar. Gracias por servirte, adios!
+[pid 8334, ppid 8320] Me piden terminar. Gracias por servirte, adios!
+[pid 8404, ppid 8332] Me piden terminar. Gracias por servirte, adios!
+[pid 8342, ppid 8318] Me piden terminar. Gracias por servirte, adios!
+[pid 8345, ppid 8320] Me piden terminar. Gracias por servirte, adios!
+[pid 8344, ppid 8318] Me piden terminar. Gracias por servirte, adios!
+[pid 8411, ppid 8337] Me piden terminar. Gracias por servirte, adios!
+[pid 8407, ppid 8337] Me piden terminar. Gracias por servirte, adios!
+[pid 8346, ppid 8320] Me piden terminar. Gracias por servirte, adios!
+[pid 8408, ppid 8337] Me piden terminar. Gracias por servirte, adios!
+[pid 8391, ppid 8343] Me piden terminar. Gracias por servirte, adios!
+[pid 8339, ppid 8319] Me piden terminar. Gracias por servirte, adios!
+[pid 8397, ppid 8343] Me piden terminar. Gracias por servirte, adios!
+[pid 8410, ppid 8337] Me piden terminar. Gracias por servirte, adios!
+[pid 8390, ppid 8322] Me piden terminar. Gracias por servirte, adios!
+[pid 8347, ppid 8320] Me piden terminar. Gracias por servirte, adios!
+[pid 8395, ppid 8322] Me piden terminar. Gracias por servirte, adios!
+[pid 8409, ppid 8337] Me piden terminar. Gracias por servirte, adios!
+[pid 8398, ppid 8322] Me piden terminar. Gracias por servirte, adios!
+[pid 8403, ppid 8322] Me piden terminar. Gracias por servirte, adios!
+[pid 8406, ppid 8322] Me piden terminar. Gracias por servirte, adios!
+[pid 8337, ppid 8320] Me piden terminar. Gracias por servirte, adios!
+[pid 8388, ppid 8332] Me piden terminar. Gracias por servirte, adios!
+[pid 8320, ppid 8315] Me piden terminar. Gracias por servirte, adios!
+[pid 8394, ppid 8343] Me piden terminar. Gracias por servirte, adios!
+[pid 8401, ppid 8343] Me piden terminar. Gracias por servirte, adios!
+[pid 8405, ppid 8343] Me piden terminar. Gracias por servirte, adios!
+[pid 8387, ppid 8338] Me piden terminar. Gracias por servirte, adios!
+[pid 8343, ppid 8318] Me piden terminar. Gracias por servirte, adios!
+[pid 8389, ppid 8338] Me piden terminar. Gracias por servirte, adios!
+[pid 8318, ppid 8315] Me piden terminar. Gracias por servirte, adios!
+[pid 8393, ppid 8338] Me piden terminar. Gracias por servirte, adios!
+[pid 8399, ppid 8338] Me piden terminar. Gracias por servirte, adios!
+[pid 8402, ppid 8338] Me piden terminar. Gracias por servirte, adios!
+[pid 8317, ppid 8315] Me piden terminar. Gracias por servirte, adios!
+[pid 8322, ppid 8316] Me piden terminar. Gracias por servirte, adios!
+[pid 8338, ppid 8319] Me piden terminar. Gracias por servirte, adios!
+[pid 8332, ppid 8316] Me piden terminar. Gracias por servirte, adios!
+[pid 8319, ppid 8315] Me piden terminar. Gracias por servirte, adios!
+[pid 8316, ppid 8315] Me piden terminar. Gracias por servirte, adios!
+[pid 8315, ppid 8313] Me piden terminar. Gracias por servirte, adios!
+No completada (caos planetario) | Duración: 120.0275 s | sin esperas: 120.0275 s
+Meeseeks creados: 56 | nivel maximo: 4
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+  nivel 3: 25 Meeseeks
+  nivel 4: 25 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | caos planetario | total 120.027 s | real (sin esperas) 120.027 s | Meeseeks: 56
+Solicitudes: 1 | completadas: 0 | no completadas: 1
+Box terminó.
