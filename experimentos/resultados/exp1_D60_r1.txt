@@ -1,0 +1,37 @@
+Box> Tiempo fijo: 0.20 s
+Box> Dificultad fija: 60.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (3584, 3583, 1, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3585, 3584, 2, 1) D=65.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3586, 3584, 2, 2) D=65.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3587, 3585, 3, 1) D=70.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3588, 3585, 3, 2) D=70.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3589, 3586, 3, 1) D=70.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3590, 3586, 3, 2) D=70.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3591, 3587, 4, 1) D=75.0
+[pid 3590] Resolvi la tarea
+[pid 3590, ppid 3586] Mision cumplida. Gracias por servirte, adios!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3592, 3587, 4, 2) D=75.0
+[pid 3589, ppid 3586] Me piden terminar. Gracias por servirte, adios!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3593, 3588, 4, 1) D=75.0
+[pid 3586, ppid 3584] Mision cumplida. Gracias por servirte, adios!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3594, 3588, 4, 2) D=75.0
+[pid 3593, ppid 3588] Me piden terminar. Gracias por servirte, adios!
+[pid 3591, ppid 3587] Me piden terminar. Gracias por servirte, adios!
+[pid 3592, ppid 3587] Me piden terminar. Gracias por servirte, adios!
+[pid 3594, ppid 3588] Me piden terminar. Gracias por servirte, adios!
+[pid 3587, ppid 3585] Me piden terminar. Gracias por servirte, adios!
+[pid 3588, ppid 3585] Me piden terminar. Gracias por servirte, adios!
+[pid 3585, ppid 3584] Me piden terminar. Gracias por servirte, adios!
+[pid 3584, ppid 3583] Mision cumplida. Gracias por servirte, adios!
+[pid 3584, ppid 3583] Tarea completada. La resolvio el Meeseeks (3590, 3586, 3, 2)
+Completada | Duración: 0.6291 s | sin esperas: 0.0291 s
+Meeseeks creados: 11 | nivel maximo: 4
+  nivel 1: 1 Meeseeks
+  nivel 2: 2 Meeseeks
+  nivel 3: 4 Meeseeks
+  nivel 4: 4 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 0.629 s | real (sin esperas) 0.029 s | Meeseeks: 11
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.

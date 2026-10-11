@@ -1,0 +1,14 @@
+Box> Tiempo fijo: 0.20 s
+Box> Dificultad fija: 90.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (3569, 3568, 1, 1) D=90.0
+[pid 3569] Resolvi la tarea
+[pid 3569, ppid 3568] Mision cumplida. Gracias por servirte, adios!
+[pid 3569, ppid 3568] Tarea completada. La resolvio el Meeseeks (3569, 3568, 1, 1)
+Completada | Duración: 0.2112 s | sin esperas: 0.0112 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 0.211 s | real (sin esperas) 0.011 s | Meeseeks: 1
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.

@@ -1,0 +1,36 @@
+Box> Tiempo fijo: 0.20 s
+Box> Dificultad fija: 40.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (3738, 3737, 1, 1) D=40.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3739, 3738, 2, 1) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3740, 3738, 2, 2) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3741, 3738, 2, 3) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3742, 3738, 2, 4) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3743, 3738, 2, 5) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3744, 3739, 3, 1) D=50.0
+[pid 3742] Resolvi la tarea
+[pid 3742, ppid 3738] Mision cumplida. Gracias por servirte, adios!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (3748, 3739, 3, 4) D=50.0
+[pid 3741, ppid 3738] Me piden terminar. Gracias por servirte, adios!
+[pid 3744, ppid 3739] Me piden terminar. Gracias por servirte, adios!
+[pid 3751, ppid 3740] Me piden terminar. Gracias por servirte, adios!
+[pid 3749, ppid 3739] Me piden terminar. Gracias por servirte, adios!
+[pid 3746, ppid 3739] Me piden terminar. Gracias por servirte, adios!
+[pid 3747, ppid 3740] Me piden terminar. Gracias por servirte, adios!
+[pid 3748, ppid 3739] Me piden terminar. Gracias por servirte, adios!
+[pid 3750, ppid 3740] Me piden terminar. Gracias por servirte, adios!
+[pid 3743, ppid 3738] Me piden terminar. Gracias por servirte, adios!
+[pid 3745, ppid 3739] Me piden terminar. Gracias por servirte, adios!
+[pid 3740, ppid 3738] Me piden terminar. Gracias por servirte, adios!
+[pid 3739, ppid 3738] Me piden terminar. Gracias por servirte, adios!
+[pid 3738, ppid 3737] Mision cumplida. Gracias por servirte, adios!
+[pid 3738, ppid 3737] Tarea completada. La resolvio el Meeseeks (3742, 3738, 2, 4)
+Completada | Duración: 0.4191 s | sin esperas: 0.0191 s
+Meeseeks creados: 9 | nivel maximo: 3
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+  nivel 3: 3 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 0.419 s | real (sin esperas) 0.019 s | Meeseeks: 9
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.
