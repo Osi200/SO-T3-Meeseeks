@@ -508,8 +508,8 @@ static void meeseeks(const char *solicitud, int N, int i) {
 
     /* Caso A: solicitud de texto, dificultad aleatoria por ahora */
     srand(getpid() ^ time(NULL));
-    /* double D = rand() % 101;*/
-    double D = 0;
+     double D = rand() % 101;
+    /*double D = 0;*/
 
     instalar_manejador();
     Reporte r = meeseeks_arbol(solicitud, D, N, i);

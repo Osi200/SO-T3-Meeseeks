@@ -15,7 +15,11 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include <time.h>
+
+/* Evaluador de operaciones */
 #include <ctype.h>  /* isdigit */
+
+
 
 
  /*--------BOX BASE-----*/
@@ -213,7 +217,7 @@ int main(void) {
             continue;
         }
         if (pid == 0) meeseeks(linea, 1, 1);  /* Es el hijo
-        N=1, i=1: primero del primer nivel*/
+        N=1, i=1: primero del primer nivel.*/
 
         int estado;
         waitpid(pid, &estado, 0);

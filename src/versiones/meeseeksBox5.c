@@ -227,9 +227,7 @@ static void crear_hijos(const char *solicitud, double D, int N) {
         if (p == 0) {
             /* HIJO */
             close(fd[k][1]);                       /* no escribe en este pipe */
-            for (int j = 0; j < k; j++) {          /* cierra los pipes de hermanos anteriores que heredo */
-                close(fd[j][1]);
-            }
+           
             char buf[256];
             ssize_t n = read(fd[k][0], buf, sizeof(buf) - 1);   /* recibe la solicitud */
             close(fd[k][0]);
@@ -251,7 +249,7 @@ static void crear_hijos(const char *solicitud, double D, int N) {
 static void meeseeks_arbol(const char *solicitud, double D, int N, int i) {
     printf("Hi, I'm Mr. Meeseeks! Look at Meeeee. (%d, %d, %d, %d) D=%.1f\n",
            getpid(), getppid(), N, i, D);
-    printf("[pid %d] Mi solicitud (por pipe): %s\n", getpid(), solicitud);
+    /*printf("[pid %d] Mi solicitud (por pipe): %s\n", getpid(), solicitud);*/
     /*printf("[pid %d] Mi solicitud (por pipe): %s\n", getpid(), solicitud);*/
     fflush(stdout);                           /* antes de cualquier fork */
 
