@@ -1,0 +1,46 @@
+Box> Valor invalido: usa aleatorio o segundos (ej. 0.2)
+Box> Dificultad fija: 40.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7317, 7316, 1, 1) D=40.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7318, 7317, 2, 1) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7320, 7317, 2, 3) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7319, 7317, 2, 2) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7321, 7317, 2, 4) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7322, 7317, 2, 5) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7323, 7318, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7324, 7318, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7326, 7318, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7325, 7318, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7327, 7318, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7328, 7325, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7329, 7325, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7330, 7329, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7331, 7329, 5, 2) D=60.0
+[pid 7322] Resolvi la tarea
+[pid 7322, ppid 7317] Mision cumplida. Gracias por servirte, adios!
+[pid 7323, ppid 7318] Me piden terminar. Gracias por servirte, adios!
+[pid 7319, ppid 7317] Me piden terminar. Gracias por servirte, adios!
+[pid 7320, ppid 7317] Me piden terminar. Gracias por servirte, adios!
+[pid 7321, ppid 7317] Me piden terminar. Gracias por servirte, adios!
+[pid 7324, ppid 7318] Me piden terminar. Gracias por servirte, adios!
+[pid 7331, ppid 7329] Me piden terminar. Gracias por servirte, adios!
+[pid 7326, ppid 7318] Me piden terminar. Gracias por servirte, adios!
+[pid 7328, ppid 7325] Me piden terminar. Gracias por servirte, adios!
+[pid 7327, ppid 7318] Me piden terminar. Gracias por servirte, adios!
+[pid 7330, ppid 7329] Me piden terminar. Gracias por servirte, adios!
+[pid 7329, ppid 7325] Me piden terminar. Gracias por servirte, adios!
+[pid 7325, ppid 7318] Me piden terminar. Gracias por servirte, adios!
+[pid 7318, ppid 7317] Me piden terminar. Gracias por servirte, adios!
+[pid 7317, ppid 7316] Mision cumplida. Gracias por servirte, adios!
+[pid 7317, ppid 7316] Tarea completada. La resolvio el Meeseeks (7322, 7317, 2, 5)
+Completada | Duración: 4.0267 s | sin esperas: 0.0221 s
+Meeseeks creados: 15 | nivel maximo: 5
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+  nivel 3: 5 Meeseeks
+  nivel 4: 2 Meeseeks
+  nivel 5: 2 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 4.027 s | real (sin esperas) 0.022 s | Meeseeks: 15
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.
