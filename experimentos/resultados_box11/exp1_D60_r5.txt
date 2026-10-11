@@ -1,0 +1,14 @@
+Box> Tiempo fijo: 0.20 s
+Box> Dificultad fija: 60.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (3723, 3721, 1, 1) D=60.0
+[pid 3723] Resolvi la tarea
+[pid 3723, ppid 3721] Mision cumplida. Gracias por servirte, adios!
+[pid 3723, ppid 3721] Tarea completada. La resolvio el Meeseeks (3723, 3721, 1, 1)
+Completada | Duración: 0.2198 s | sin esperas: 0.0198 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 0.220 s | real (sin esperas) 0.020 s | Meeseeks: 1
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.

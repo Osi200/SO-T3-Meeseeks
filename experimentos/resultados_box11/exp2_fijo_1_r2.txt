@@ -1,0 +1,104 @@
+Box> Valor invalido: usa aleatorio o segundos (ej. 0.2)
+Box> Dificultad fija: 40.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7221, 7220, 1, 1) D=40.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7267, 7221, 2, 1) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7268, 7221, 2, 2) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7269, 7221, 2, 3) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7271, 7221, 2, 5) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7270, 7221, 2, 4) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7274, 7269, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7276, 7269, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7278, 7269, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7275, 7269, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7277, 7269, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7279, 7271, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7282, 7271, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7283, 7271, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7280, 7271, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7281, 7271, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7284, 7267, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7286, 7267, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7288, 7267, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7287, 7267, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7285, 7267, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7289, 7275, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7290, 7275, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7291, 7278, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7292, 7278, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7293, 7279, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7294, 7279, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7295, 7290, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7296, 7290, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7297, 7277, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7298, 7277, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7299, 7286, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7300, 7286, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7301, 7282, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7302, 7282, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7303, 7294, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7304, 7294, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7305, 7289, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7306, 7289, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7308, 7268, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7309, 7268, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7307, 7268, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7310, 7268, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7311, 7268, 3, 5) D=50.0
+[pid 7276] Resolvi la tarea
+[pid 7276, ppid 7269] Mision cumplida. Gracias por servirte, adios!
+[pid 7274, ppid 7269] Me piden terminar. Gracias por servirte, adios!
+[pid 7297, ppid 7277] Me piden terminar. Gracias por servirte, adios!
+[pid 7298, ppid 7277] Me piden terminar. Gracias por servirte, adios!
+[pid 7306, ppid 7289] Me piden terminar. Gracias por servirte, adios!
+[pid 7291, ppid 7278] Me piden terminar. Gracias por servirte, adios!
+[pid 7295, ppid 7290] Me piden terminar. Gracias por servirte, adios!
+[pid 7292, ppid 7278] Me piden terminar. Gracias por servirte, adios!
+[pid 7305, ppid 7289] Me piden terminar. Gracias por servirte, adios!
+[pid 7296, ppid 7290] Me piden terminar. Gracias por servirte, adios!
+[pid 7277, ppid 7269] Me piden terminar. Gracias por servirte, adios!
+[pid 7289, ppid 7275] Me piden terminar. Gracias por servirte, adios!
+[pid 7290, ppid 7275] Me piden terminar. Gracias por servirte, adios!
+[pid 7278, ppid 7269] Me piden terminar. Gracias por servirte, adios!
+[pid 7275, ppid 7269] Me piden terminar. Gracias por servirte, adios!
+[pid 7269, ppid 7221] Mision cumplida. Gracias por servirte, adios!
+[pid 7270, ppid 7221] Me piden terminar. Gracias por servirte, adios!
+[pid 7280, ppid 7271] Me piden terminar. Gracias por servirte, adios!
+[pid 7283, ppid 7271] Me piden terminar. Gracias por servirte, adios!
+[pid 7281, ppid 7271] Me piden terminar. Gracias por servirte, adios!
+[pid 7302, ppid 7282] Me piden terminar. Gracias por servirte, adios!
+[pid 7293, ppid 7279] Me piden terminar. Gracias por servirte, adios!
+[pid 7307, ppid 7268] Me piden terminar. Gracias por servirte, adios!
+[pid 7310, ppid 7268] Me piden terminar. Gracias por servirte, adios!
+[pid 7284, ppid 7267] Me piden terminar. Gracias por servirte, adios!
+[pid 7288, ppid 7267] Me piden terminar. Gracias por servirte, adios!
+[pid 7299, ppid 7286] Me piden terminar. Gracias por servirte, adios!
+[pid 7300, ppid 7286] Me piden terminar. Gracias por servirte, adios!
+[pid 7301, ppid 7282] Me piden terminar. Gracias por servirte, adios!
+[pid 7304, ppid 7294] Me piden terminar. Gracias por servirte, adios!
+[pid 7309, ppid 7268] Me piden terminar. Gracias por servirte, adios!
+[pid 7285, ppid 7267] Me piden terminar. Gracias por servirte, adios!
+[pid 7286, ppid 7267] Me piden terminar. Gracias por servirte, adios!
+[pid 7311, ppid 7268] Me piden terminar. Gracias por servirte, adios!
+[pid 7287, ppid 7267] Me piden terminar. Gracias por servirte, adios!
+[pid 7282, ppid 7271] Me piden terminar. Gracias por servirte, adios!
+[pid 7303, ppid 7294] Me piden terminar. Gracias por servirte, adios!
+[pid 7267, ppid 7221] Me piden terminar. Gracias por servirte, adios!
+[pid 7308, ppid 7268] Me piden terminar. Gracias por servirte, adios!
+[pid 7294, ppid 7279] Me piden terminar. Gracias por servirte, adios!
+[pid 7268, ppid 7221] Me piden terminar. Gracias por servirte, adios!
+[pid 7279, ppid 7271] Me piden terminar. Gracias por servirte, adios!
+[pid 7271, ppid 7221] Me piden terminar. Gracias por servirte, adios!
+[pid 7221, ppid 7220] Mision cumplida. Gracias por servirte, adios!
+[pid 7221, ppid 7220] Tarea completada. La resolvio el Meeseeks (7276, 7269, 3, 3)
+Completada | Duración: 7.1936 s | sin esperas: 0.0216 s
+Meeseeks creados: 44 | nivel maximo: 5
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+  nivel 3: 20 Meeseeks
+  nivel 4: 12 Meeseeks
+  nivel 5: 6 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 7.194 s | real (sin esperas) 0.022 s | Meeseeks: 44
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.

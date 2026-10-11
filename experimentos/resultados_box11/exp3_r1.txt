@@ -1,0 +1,51 @@
+Box> Tiempo fijo: 0.20 s
+Box> Dificultad fija: 90.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7983, 7982, 1, 1) D=90.0
+[pid 7983] Resolvi la tarea
+[pid 7983, ppid 7982] Mision cumplida. Gracias por servirte, adios!
+[pid 7983, ppid 7982] Tarea completada. La resolvio el Meeseeks (7983, 7982, 1, 1)
+Completada | Duración: 0.2216 s | sin esperas: 0.0216 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7984, 7982, 1, 1)
+[pid 7984, ppid 7982] Resultado: 2
+Completada | Duración: 0.0216 s | sin esperas: 0.0216 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7985, 7982, 1, 1)
+node-compile-cache
+systemd-private-440acc1253a643e8a746ee63d8257f47-colord.service-LwpF9F
+systemd-private-440acc1253a643e8a746ee63d8257f47-fwupd.service-JZ99sc
+systemd-private-440acc1253a643e8a746ee63d8257f47-geoclue.service-HS85D8
+systemd-private-440acc1253a643e8a746ee63d8257f47-low-memory-monitor.service-midA0K
+systemd-private-440acc1253a643e8a746ee63d8257f47-ModemManager.service-lUkjax
+systemd-private-440acc1253a643e8a746ee63d8257f47-power-profiles-daemon.service-O2aEHh
+systemd-private-440acc1253a643e8a746ee63d8257f47-switcheroo-control.service-TaqxeA
+systemd-private-440acc1253a643e8a746ee63d8257f47-systemd-logind.service-93b9MS
+systemd-private-440acc1253a643e8a746ee63d8257f47-upower.service-6KNcOS
+tracker-extract-3-files.1000
+tracker-extract-3-files.111
+vscode-ah-63171a94bd85
+[pid 7985, ppid 7982] Programa 'ls' termino con exito (codigo 0)
+Completada | Duración: 0.0208 s | sin esperas: 0.0208 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7987, 7982, 1, 1)
+[pid 7987, ppid 7982] Programa 'false' fallo (codigo 1)
+No completada | Duración: 0.0207 s | sin esperas: 0.0207 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7989, 7982, 1, 1)
+[pid 7989, ppid 7982] Error: division entre cero
+No completada | Duración: 0.0206 s | sin esperas: 0.0206 s
+Meeseeks creados: 1 | nivel maximo: 1
+  nivel 1: 1 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 0.222 s | real (sin esperas) 0.022 s | Meeseeks: 1
+ 2. "calc (4+3*2)/5" | completada | total 0.022 s | real (sin esperas) 0.022 s | Meeseeks: 1
+ 3. "exec ls /tmp" | completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
+ 4. "exec false" | no completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
+ 5. "calc 10/0" | no completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
+Solicitudes: 5 | completadas: 3 | no completadas: 2
+Box terminó.

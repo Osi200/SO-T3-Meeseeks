@@ -1,0 +1,26 @@
+Box> Tiempo fijo: 0.20 s
+Box> Dificultad fija: 40.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (4024, 4023, 1, 1) D=40.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (4025, 4024, 2, 1) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (4026, 4024, 2, 2) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (4028, 4024, 2, 4) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (4029, 4024, 2, 5) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (4027, 4024, 2, 3) D=45.0
+[pid 4028] Resolvi la tarea
+[pid 4028, ppid 4024] Mision cumplida. Gracias por servirte, adios!
+[pid 4029, ppid 4024] Me piden terminar. Gracias por servirte, adios!
+[pid 4025, ppid 4024] Me piden terminar. Gracias por servirte, adios!
+[pid 4030, ppid 4027] Me piden terminar. Gracias por servirte, adios!
+[pid 4026, ppid 4024] Me piden terminar. Gracias por servirte, adios!
+[pid 4027, ppid 4024] Me piden terminar. Gracias por servirte, adios!
+[pid 4024, ppid 4023] Mision cumplida. Gracias por servirte, adios!
+[pid 4024, ppid 4023] Tarea completada. La resolvio el Meeseeks (4028, 4024, 2, 4)
+Completada | Duración: 0.4206 s | sin esperas: 0.0206 s
+Meeseeks creados: 6 | nivel maximo: 2
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 0.421 s | real (sin esperas) 0.021 s | Meeseeks: 6
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.

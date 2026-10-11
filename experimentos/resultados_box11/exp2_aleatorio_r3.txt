@@ -1,0 +1,178 @@
+Box> Tiempo: aleatorio 0.5 a 5 s
+Box> Dificultad fija: 40.0
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (7483, 7482, 1, 1) D=40.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7485, 7483, 2, 2) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7486, 7483, 2, 3) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7484, 7483, 2, 1) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7487, 7483, 2, 4) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7488, 7483, 2, 5) D=45.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7489, 7487, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7490, 7487, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7491, 7487, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7493, 7487, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7492, 7487, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7494, 7485, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7495, 7485, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7497, 7485, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7498, 7485, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7496, 7485, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7499, 7488, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7500, 7488, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7501, 7488, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7502, 7488, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7503, 7488, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7504, 7484, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7507, 7484, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7508, 7484, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7506, 7484, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7505, 7484, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7509, 7493, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7510, 7493, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7511, 7495, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7512, 7495, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7513, 7494, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7514, 7494, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7515, 7509, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7516, 7509, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7517, 7497, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7518, 7497, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7519, 7486, 3, 1) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7520, 7486, 3, 2) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7522, 7486, 3, 4) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7523, 7486, 3, 5) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7521, 7486, 3, 3) D=50.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7524, 7491, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7525, 7491, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7526, 7496, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7527, 7496, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7528, 7500, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7529, 7500, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7530, 7504, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7531, 7504, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7532, 7511, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7533, 7511, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7534, 7490, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7535, 7490, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7536, 7503, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7537, 7503, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7538, 7519, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7539, 7519, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7540, 7527, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7541, 7527, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7543, 7522, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7542, 7522, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7545, 7530, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7544, 7530, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7547, 7489, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7546, 7489, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7548, 7498, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7549, 7498, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7551, 7502, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7550, 7502, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7552, 7492, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7553, 7492, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7554, 7521, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7555, 7521, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7556, 7548, 5, 1) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7557, 7548, 5, 2) D=60.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7558, 7505, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7561, 7501, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7559, 7505, 4, 2) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7560, 7501, 4, 1) D=55.0
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7562, 7517, 5, 1) D=60.0
+[pid 7512] Resolvi la tarea
+[pid 7512, ppid 7495] Mision cumplida. Gracias por servirte, adios!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (7563, 7517, 5, 2) D=60.0
+[pid 7532, ppid 7511] Me piden terminar. Gracias por servirte, adios!
+[pid 7533, ppid 7511] Me piden terminar. Gracias por servirte, adios!
+[pid 7511, ppid 7495] Me piden terminar. Gracias por servirte, adios!
+[pid 7495, ppid 7485] Mision cumplida. Gracias por servirte, adios!
+[pid 7549, ppid 7498] Me piden terminar. Gracias por servirte, adios!
+[pid 7514, ppid 7494] Me piden terminar. Gracias por servirte, adios!
+[pid 7556, ppid 7548] Me piden terminar. Gracias por servirte, adios!
+[pid 7526, ppid 7496] Me piden terminar. Gracias por servirte, adios!
+[pid 7563, ppid 7517] Me piden terminar. Gracias por servirte, adios!
+[pid 7518, ppid 7497] Me piden terminar. Gracias por servirte, adios!
+[pid 7562, ppid 7517] Me piden terminar. Gracias por servirte, adios!
+[pid 7513, ppid 7494] Me piden terminar. Gracias por servirte, adios!
+[pid 7494, ppid 7485] Me piden terminar. Gracias por servirte, adios!
+[pid 7541, ppid 7527] Me piden terminar. Gracias por servirte, adios!
+[pid 7540, ppid 7527] Me piden terminar. Gracias por servirte, adios!
+[pid 7517, ppid 7497] Me piden terminar. Gracias por servirte, adios!
+[pid 7527, ppid 7496] Me piden terminar. Gracias por servirte, adios!
+[pid 7497, ppid 7485] Me piden terminar. Gracias por servirte, adios!
+[pid 7557, ppid 7548] Me piden terminar. Gracias por servirte, adios!
+[pid 7496, ppid 7485] Me piden terminar. Gracias por servirte, adios!
+[pid 7548, ppid 7498] Me piden terminar. Gracias por servirte, adios!
+[pid 7498, ppid 7485] Me piden terminar. Gracias por servirte, adios!
+[pid 7485, ppid 7483] Mision cumplida. Gracias por servirte, adios!
+[pid 7508, ppid 7484] Me piden terminar. Gracias por servirte, adios!
+[pid 7499, ppid 7488] Me piden terminar. Gracias por servirte, adios!
+[pid 7507, ppid 7484] Me piden terminar. Gracias por servirte, adios!
+[pid 7506, ppid 7484] Me piden terminar. Gracias por servirte, adios!
+[pid 7520, ppid 7486] Me piden terminar. Gracias por servirte, adios!
+[pid 7523, ppid 7486] Me piden terminar. Gracias por servirte, adios!
+[pid 7546, ppid 7489] Me piden terminar. Gracias por servirte, adios!
+[pid 7544, ppid 7530] Me piden terminar. Gracias por servirte, adios!
+[pid 7531, ppid 7504] Me piden terminar. Gracias por servirte, adios!
+[pid 7547, ppid 7489] Me piden terminar. Gracias por servirte, adios!
+[pid 7554, ppid 7521] Me piden terminar. Gracias por servirte, adios!
+[pid 7545, ppid 7530] Me piden terminar. Gracias por servirte, adios!
+[pid 7558, ppid 7505] Me piden terminar. Gracias por servirte, adios!
+[pid 7525, ppid 7491] Me piden terminar. Gracias por servirte, adios!
+[pid 7550, ppid 7502] Me piden terminar. Gracias por servirte, adios!
+[pid 7539, ppid 7519] Me piden terminar. Gracias por servirte, adios!
+[pid 7555, ppid 7521] Me piden terminar. Gracias por servirte, adios!
+[pid 7528, ppid 7500] Me piden terminar. Gracias por servirte, adios!
+[pid 7542, ppid 7522] Me piden terminar. Gracias por servirte, adios!
+[pid 7510, ppid 7493] Me piden terminar. Gracias por servirte, adios!
+[pid 7524, ppid 7491] Me piden terminar. Gracias por servirte, adios!
+[pid 7560, ppid 7501] Me piden terminar. Gracias por servirte, adios!
+[pid 7538, ppid 7519] Me piden terminar. Gracias por servirte, adios!
+[pid 7537, ppid 7503] Me piden terminar. Gracias por servirte, adios!
+[pid 7553, ppid 7492] Me piden terminar. Gracias por servirte, adios!
+[pid 7561, ppid 7501] Me piden terminar. Gracias por servirte, adios!
+[pid 7530, ppid 7504] Me piden terminar. Gracias por servirte, adios!
+[pid 7534, ppid 7490] Me piden terminar. Gracias por servirte, adios!
+[pid 7543, ppid 7522] Me piden terminar. Gracias por servirte, adios!
+[pid 7552, ppid 7492] Me piden terminar. Gracias por servirte, adios!
+[pid 7535, ppid 7490] Me piden terminar. Gracias por servirte, adios!
+[pid 7489, ppid 7487] Me piden terminar. Gracias por servirte, adios!
+[pid 7551, ppid 7502] Me piden terminar. Gracias por servirte, adios!
+[pid 7529, ppid 7500] Me piden terminar. Gracias por servirte, adios!
+[pid 7515, ppid 7509] Me piden terminar. Gracias por servirte, adios!
+[pid 7559, ppid 7505] Me piden terminar. Gracias por servirte, adios!
+[pid 7519, ppid 7486] Me piden terminar. Gracias por servirte, adios!
+[pid 7536, ppid 7503] Me piden terminar. Gracias por servirte, adios!
+[pid 7522, ppid 7486] Me piden terminar. Gracias por servirte, adios!
+[pid 7490, ppid 7487] Me piden terminar. Gracias por servirte, adios!
+[pid 7505, ppid 7484] Me piden terminar. Gracias por servirte, adios!
+[pid 7516, ppid 7509] Me piden terminar. Gracias por servirte, adios!
+[pid 7492, ppid 7487] Me piden terminar. Gracias por servirte, adios!
+[pid 7521, ppid 7486] Me piden terminar. Gracias por servirte, adios!
+[pid 7504, ppid 7484] Me piden terminar. Gracias por servirte, adios!
+[pid 7503, ppid 7488] Me piden terminar. Gracias por servirte, adios!
+[pid 7491, ppid 7487] Me piden terminar. Gracias por servirte, adios!
+[pid 7509, ppid 7493] Me piden terminar. Gracias por servirte, adios!
+[pid 7502, ppid 7488] Me piden terminar. Gracias por servirte, adios!
+[pid 7486, ppid 7483] Me piden terminar. Gracias por servirte, adios!
+[pid 7500, ppid 7488] Me piden terminar. Gracias por servirte, adios!
+[pid 7484, ppid 7483] Me piden terminar. Gracias por servirte, adios!
+[pid 7493, ppid 7487] Me piden terminar. Gracias por servirte, adios!
+[pid 7501, ppid 7488] Me piden terminar. Gracias por servirte, adios!
+[pid 7488, ppid 7483] Me piden terminar. Gracias por servirte, adios!
+[pid 7487, ppid 7483] Me piden terminar. Gracias por servirte, adios!
+[pid 7483, ppid 7482] Mision cumplida. Gracias por servirte, adios!
+[pid 7483, ppid 7482] Tarea completada. La resolvio el Meeseeks (7512, 7495, 4, 2)
+Completada | Duración: 11.0747 s | sin esperas: 0.0323 s
+Meeseeks creados: 81 | nivel maximo: 5
+  nivel 1: 1 Meeseeks
+  nivel 2: 5 Meeseeks
+  nivel 3: 25 Meeseeks
+  nivel 4: 38 Meeseeks
+  nivel 5: 12 Meeseeks
+Box> 
+===== INFORME FINAL =====
+ 1. "hola" | completada | total 11.075 s | real (sin esperas) 0.032 s | Meeseeks: 81
+Solicitudes: 1 | completadas: 1 | no completadas: 0
+Box terminó.

@@ -1,548 +1,475 @@
 Box> Tiempo fijo: 0.20 s
 Box> Dificultad fija: 5.0
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (5813, 5812, 1, 1) D=5.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5814, 5813, 2, 1) D=10.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5815, 5813, 2, 2) D=10.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5816, 5813, 2, 3) D=10.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5818, 5813, 2, 5) D=10.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5817, 5813, 2, 4) D=10.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5825, 5817, 3, 3) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5826, 5814, 3, 3) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5824, 5816, 3, 2) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5828, 5816, 3, 3) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5823, 5817, 3, 2) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5836, 5814, 3, 5) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5837, 5818, 3, 4) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5829, 5817, 3, 4) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5834, 5818, 3, 3) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5822, 5816, 3, 1) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5830, 5818, 3, 2) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5820, 5817, 3, 1) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5839, 5815, 3, 1) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5835, 5816, 3, 5) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5821, 5814, 3, 2) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5819, 5814, 3, 1) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5841, 5815, 3, 3) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5838, 5818, 3, 5) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5840, 5815, 3, 2) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5831, 5814, 3, 4) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5832, 5816, 3, 4) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5842, 5815, 3, 4) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5833, 5817, 3, 5) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5843, 5815, 3, 5) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5827, 5818, 3, 1) D=15.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5853, 5838, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5856, 5830, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5862, 5831, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5852, 5830, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5857, 5838, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5859, 5829, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5864, 5842, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5860, 5830, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5865, 5842, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5849, 5838, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5866, 5842, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5863, 5829, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5858, 5831, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5861, 5838, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5848, 5830, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5854, 5831, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5850, 5831, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5873, 5827, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5871, 5827, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5872, 5827, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5870, 5827, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5855, 5829, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5868, 5842, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5869, 5827, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5851, 5829, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5874, 5825, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5877, 5824, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5881, 5832, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5882, 5825, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5887, 5832, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5888, 5836, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5890, 5832, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5900, 5837, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5901, 5836, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5905, 5834, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5907, 5834, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5910, 5834, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5913, 5834, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5916, 5834, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5921, 5835, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5924, 5835, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5927, 5835, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5876, 5825, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5930, 5835, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5878, 5825, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5933, 5835, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5879, 5832, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5936, 5841, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5880, 5824, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5939, 5841, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5883, 5824, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5942, 5841, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5884, 5832, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5945, 5841, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5885, 5825, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5947, 5841, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5886, 5824, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5949, 5833, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5889, 5837, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5951, 5833, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5891, 5837, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5953, 5833, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5894, 5837, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5955, 5833, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5903, 5822, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5965, 5819, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5906, 5822, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5892, 5836, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5967, 5819, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5909, 5822, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5845, 5838, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5966, 5843, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5896, 5826, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5968, 5843, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5867, 5842, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5897, 5837, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5875, 5824, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5846, 5831, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5844, 5830, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5899, 5826, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5847, 5829, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5902, 5826, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5893, 5826, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5904, 5826, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5908, 5828, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5918, 5820, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5920, 5820, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5911, 5828, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5922, 5820, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5914, 5828, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5925, 5820, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5917, 5828, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5928, 5820, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5919, 5828, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5923, 5823, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5932, 5840, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5926, 5823, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5935, 5840, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5931, 5823, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5929, 5823, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5934, 5823, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5937, 5840, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5940, 5840, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5938, 5839, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5941, 5839, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5943, 5840, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5915, 5822, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5944, 5839, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5946, 5839, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5912, 5822, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5895, 5836, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5898, 5836, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5959, 5843, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5948, 5839, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5950, 5821, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5961, 5819, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5954, 5821, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5952, 5821, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5963, 5819, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5957, 5833, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5956, 5821, 4, 4) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5962, 5843, 4, 2) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5958, 5821, 4, 5) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5960, 5819, 4, 1) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5964, 5843, 4, 3) D=20.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5969, 5852, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5970, 5853, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5979, 5860, 5, 5) D=25.0
-[pid 5857] Resolvi la tarea
-[pid 5857, ppid 5838] Mision cumplida. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5983, 5862, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5984, 5858, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5988, 5858, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5986, 5858, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5990, 5858, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5991, 5859, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5985, 5862, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5993, 5858, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5999, 5861, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6000, 5859, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5992, 5862, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5989, 5862, 5, 4) D=25.0
-[pid 6001, ppid 5861] Me piden terminar. Gracias por servirte, adios!
-[pid 5845, ppid 5838] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5975, 5860, 5, 3) D=25.0
-[pid 5849, ppid 5838] Me piden terminar. Gracias por servirte, adios!
-[pid 5970, ppid 5853] Me piden terminar. Gracias por servirte, adios!
-[pid 5999, ppid 5861] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5987, 5862, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6002, 5866, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6006, 5866, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5998, 5859, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5972, 5860, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6003, 5854, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5971, 5860, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5994, 5859, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5995, 5859, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6004, 5866, 5, 2) D=25.0
-[pid 5996, ppid 5861] Me piden terminar. Gracias por servirte, adios!
-[pid 5997, ppid 5861] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6007, 5854, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6008, 5866, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5978, 5860, 5, 4) D=25.0
-[pid 5973, ppid 5853] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6005, 5854, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5974, 5852, 5, 2) D=25.0
-[pid 5981, ppid 5853] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5980, 5852, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6010, 5854, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5982, 5852, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (5976, 5852, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6009, 5854, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6012, 5924, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6011, 5866, 5, 5) D=25.0
-[pid 5917] Resolvi la tarea
-[pid 5917, ppid 5828] Mision cumplida. Gracias por servirte, adios!
-[pid 5861, ppid 5838] Me piden terminar. Gracias por servirte, adios!
-[pid 5908, ppid 5828] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6017, 5923, 5, 1) D=25.0
-[pid 5977, ppid 5853] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6018, 5923, 5, 2) D=25.0
-[pid 5911, ppid 5828] Me piden terminar. Gracias por servirte, adios!
-[pid 5853, ppid 5838] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6019, 5923, 5, 3) D=25.0
-[pid 5914, ppid 5828] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6020, 5923, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6021, 5923, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6022, 5938, 5, 1) D=25.0
-[pid 5919, ppid 5828] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6023, 5938, 5, 2) D=25.0
-[pid 5828, ppid 5816] Mision cumplida. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6024, 5938, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6026, 5938, 5, 5) D=25.0
-[pid 5881, ppid 5832] Me piden terminar. Gracias por servirte, adios!
-[pid 5875, ppid 5824] Me piden terminar. Gracias por servirte, adios!
-[pid 5921, ppid 5835] Me piden terminar. Gracias por servirte, adios!
-[pid 5930, ppid 5835] Me piden terminar. Gracias por servirte, adios!
-[pid 5884, ppid 5832] Me piden terminar. Gracias por servirte, adios!
-[pid 5933, ppid 5835] Me piden terminar. Gracias por servirte, adios!
-[pid 5877, ppid 5824] Me piden terminar. Gracias por servirte, adios!
-[pid 5927, ppid 5835] Me piden terminar. Gracias por servirte, adios!
-[pid 5887, ppid 5832] Me piden terminar. Gracias por servirte, adios!
-[pid 5890, ppid 5832] Me piden terminar. Gracias por servirte, adios!
-[pid 5838, ppid 5818] Mision cumplida. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6027, 5959, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6030, 5959, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6028, 5959, 5, 2) D=25.0
-[pid 5871, ppid 5827] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6031, 5959, 5, 5) D=25.0
-[pid 5872, ppid 5827] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6029, 5959, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6032, 5943, 5, 1) D=25.0
-[pid 5873, ppid 5827] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6033, 5943, 5, 2) D=25.0
-[pid 5848, ppid 5830] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6034, 5943, 5, 3) D=25.0
-[pid 5856, ppid 5830] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6036, 5943, 5, 4) D=25.0
-[pid 5906, ppid 5822] Me piden terminar. Gracias por servirte, adios!
-[pid 5886, ppid 5824] Me piden terminar. Gracias por servirte, adios!
-[pid 5905, ppid 5834] Me piden terminar. Gracias por servirte, adios!
-[pid 5975, ppid 5860] Me piden terminar. Gracias por servirte, adios!
-[pid 5907, ppid 5834] Me piden terminar. Gracias por servirte, adios!
-[pid 5909, ppid 5822] Me piden terminar. Gracias por servirte, adios!
-[pid 5979, ppid 5860] Me piden terminar. Gracias por servirte, adios!
-[pid 5978, ppid 5860] Me piden terminar. Gracias por servirte, adios!
-[pid 5910, ppid 5834] Me piden terminar. Gracias por servirte, adios!
-[pid 5883, ppid 5824] Me piden terminar. Gracias por servirte, adios!
-[pid 5913, ppid 5834] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6037, 5937, 5, 2) D=25.0
-[pid 5916, ppid 5834] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6040, 5937, 5, 4) D=25.0
-[pid 5880, ppid 5824] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6041, 5937, 5, 5) D=25.0
-[pid 5897, ppid 5837] Me piden terminar. Gracias por servirte, adios!
-[pid 5824, ppid 5816] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6035, 5937, 5, 1) D=25.0
-[pid 5900, ppid 5837] Me piden terminar. Gracias por servirte, adios!
-[pid 5969, ppid 5852] Me piden terminar. Gracias por servirte, adios!
-[pid 5915, ppid 5822] Me piden terminar. Gracias por servirte, adios!
-[pid 5844, ppid 5830] Me piden terminar. Gracias por servirte, adios!
-[pid 5972, ppid 5860] Me piden terminar. Gracias por servirte, adios!
-[pid 5894, ppid 5837] Me piden terminar. Gracias por servirte, adios!
-[pid 5834, ppid 5818] Me piden terminar. Gracias por servirte, adios!
-[pid 5889, ppid 5837] Me piden terminar. Gracias por servirte, adios!
-[pid 5982, ppid 5852] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6042, 5940, 5, 1) D=25.0
-[pid 5891, ppid 5837] Me piden terminar. Gracias por servirte, adios!
-[pid 5971, ppid 5860] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6043, 5940, 5, 2) D=25.0
-[pid 5879, ppid 5832] Me piden terminar. Gracias por servirte, adios!
-[pid 5860, ppid 5830] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6044, 5940, 5, 3) D=25.0
-[pid 5832, ppid 5816] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6045, 5940, 5, 4) D=25.0
-[pid 5837, ppid 5818] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6013, 5924, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6046, 5940, 5, 5) D=25.0
-[pid 6013, ppid 5924] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6015, 5924, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6047, 5895, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6014, 5924, 5, 3) D=25.0
-[pid 6015, ppid 5924] Me piden terminar. Gracias por servirte, adios!
-[pid 6014, ppid 5924] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6049, 5895, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6016, 5924, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6025, 5938, 5, 4) D=25.0
-[pid 5869, ppid 5827] Me piden terminar. Gracias por servirte, adios!
-[pid 5903, ppid 5822] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6051, 5895, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6050, 5895, 5, 4) D=25.0
-[pid 5912, ppid 5822] Me piden terminar. Gracias por servirte, adios!
-[pid 5870, ppid 5827] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6052, 5898, 5, 1) D=25.0
-[pid 5827, ppid 5818] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6053, 5898, 5, 2) D=25.0
-[pid 5822, ppid 5816] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6054, 5898, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6055, 5898, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6056, 5961, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6059, 5961, 5, 3) D=25.0
-[pid 6016, ppid 5924] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6062, 5963, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6057, 5898, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6063, 5963, 5, 3) D=25.0
-[pid 5974, ppid 5852] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6061, 5961, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6065, 5963, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6048, 5895, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6066, 5963, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6067, 5962, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6068, 5962, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6060, 5963, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6069, 5962, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6070, 5962, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6071, 5962, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6072, 5964, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6073, 5964, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6074, 5964, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6064, 5961, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6058, 5961, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6076, 5957, 5, 1) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6077, 5957, 5, 2) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6078, 5957, 5, 3) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6079, 5957, 5, 4) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6080, 5957, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6075, 5964, 5, 4) D=25.0
-[pid 5980, ppid 5852] Me piden terminar. Gracias por servirte, adios!
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6081, 5964, 5, 5) D=25.0
-Hi, I'm Mr. Meeseeks! Look at Meeeee. (6038, 5943, 5, 5) D=25.0
-[pid 5976, ppid 5852] Me piden terminar. Gracias por servirte, adios!
-[pid 5852, ppid 5830] Me piden terminar. Gracias por servirte, adios!
-[pid 6012, ppid 5924] Me piden terminar. Gracias por servirte, adios!
-[pid 5830, ppid 5818] Me piden terminar. Gracias por servirte, adios!
-[pid 5818, ppid 5813] Mision cumplida. Gracias por servirte, adios!
-[pid 5924, ppid 5835] Me piden terminar. Gracias por servirte, adios!
-[pid 5835, ppid 5816] Me piden terminar. Gracias por servirte, adios!
-[pid 5876, ppid 5825] Me piden terminar. Gracias por servirte, adios!
-[pid 5874, ppid 5825] Me piden terminar. Gracias por servirte, adios!
-[pid 5846, ppid 5831] Me piden terminar. Gracias por servirte, adios!
-[pid 5816, ppid 5813] Me piden terminar. Gracias por servirte, adios!
-[pid 5878, ppid 5825] Me piden terminar. Gracias por servirte, adios!
-[pid 5882, ppid 5825] Me piden terminar. Gracias por servirte, adios!
-[pid 5960, ppid 5819] Me piden terminar. Gracias por servirte, adios!
-[pid 5885, ppid 5825] Me piden terminar. Gracias por servirte, adios!
-[pid 5949, ppid 5833] Me piden terminar. Gracias por servirte, adios!
-[pid 6062, ppid 5963] Me piden terminar. Gracias por servirte, adios!
-[pid 5965, ppid 5819] Me piden terminar. Gracias por servirte, adios!
-[pid 5951, ppid 5833] Me piden terminar. Gracias por servirte, adios!
-[pid 5967, ppid 5819] Me piden terminar. Gracias por servirte, adios!
-[pid 6063, ppid 5963] Me piden terminar. Gracias por servirte, adios!
-[pid 5953, ppid 5833] Me piden terminar. Gracias por servirte, adios!
-[pid 5955, ppid 5833] Me piden terminar. Gracias por servirte, adios!
-[pid 5950, ppid 5821] Me piden terminar. Gracias por servirte, adios!
-[pid 6066, ppid 5963] Me piden terminar. Gracias por servirte, adios!
-[pid 5847, ppid 5829] Me piden terminar. Gracias por servirte, adios!
-[pid 5918, ppid 5820] Me piden terminar. Gracias por servirte, adios!
-[pid 5952, ppid 5821] Me piden terminar. Gracias por servirte, adios!
-[pid 5851, ppid 5829] Me piden terminar. Gracias por servirte, adios!
-[pid 5920, ppid 5820] Me piden terminar. Gracias por servirte, adios!
-[pid 5954, ppid 5821] Me piden terminar. Gracias por servirte, adios!
-[pid 5855, ppid 5829] Me piden terminar. Gracias por servirte, adios!
-[pid 5922, ppid 5820] Me piden terminar. Gracias por servirte, adios!
-[pid 5956, ppid 5821] Me piden terminar. Gracias por servirte, adios!
-[pid 5925, ppid 5820] Me piden terminar. Gracias por servirte, adios!
-[pid 5958, ppid 5821] Me piden terminar. Gracias por servirte, adios!
-[pid 5936, ppid 5841] Me piden terminar. Gracias por servirte, adios!
-[pid 5893, ppid 5826] Me piden terminar. Gracias por servirte, adios!
-[pid 5928, ppid 5820] Me piden terminar. Gracias por servirte, adios!
-[pid 5939, ppid 5841] Me piden terminar. Gracias por servirte, adios!
-[pid 5896, ppid 5826] Me piden terminar. Gracias por servirte, adios!
-[pid 5942, ppid 5841] Me piden terminar. Gracias por servirte, adios!
-[pid 5899, ppid 5826] Me piden terminar. Gracias por servirte, adios!
-[pid 5867, ppid 5842] Me piden terminar. Gracias por servirte, adios!
-[pid 5945, ppid 5841] Me piden terminar. Gracias por servirte, adios!
-[pid 6004, ppid 5866] Me piden terminar. Gracias por servirte, adios!
-[pid 5947, ppid 5841] Me piden terminar. Gracias por servirte, adios!
-[pid 5902, ppid 5826] Me piden terminar. Gracias por servirte, adios!
-[pid 5991, ppid 5859] Me piden terminar. Gracias por servirte, adios!
-[pid 5868, ppid 5842] Me piden terminar. Gracias por servirte, adios!
-[pid 5841, ppid 5815] Me piden terminar. Gracias por servirte, adios!
-[pid 5994, ppid 5859] Me piden terminar. Gracias por servirte, adios!
-[pid 5904, ppid 5826] Me piden terminar. Gracias por servirte, adios!
-[pid 5966, ppid 5843] Me piden terminar. Gracias por servirte, adios!
-[pid 5850, ppid 5831] Me piden terminar. Gracias por servirte, adios!
-[pid 5968, ppid 5843] Me piden terminar. Gracias por servirte, adios!
-[pid 5995, ppid 5859] Me piden terminar. Gracias por servirte, adios!
-[pid 6028, ppid 5959] Me piden terminar. Gracias por servirte, adios!
-[pid 6029, ppid 5959] Me piden terminar. Gracias por servirte, adios!
-[pid 5998, ppid 5859] Me piden terminar. Gracias por servirte, adios!
-[pid 5986, ppid 5858] Me piden terminar. Gracias por servirte, adios!
-[pid 5863, ppid 5829] Me piden terminar. Gracias por servirte, adios!
-[pid 6003, ppid 5854] Me piden terminar. Gracias por servirte, adios!
-[pid 5988, ppid 5858] Me piden terminar. Gracias por servirte, adios!
-[pid 6000, ppid 5859] Me piden terminar. Gracias por servirte, adios!
-[pid 5888, ppid 5836] Me piden terminar. Gracias por servirte, adios!
-[pid 5990, ppid 5858] Me piden terminar. Gracias por servirte, adios!
-[pid 5932, ppid 5840] Me piden terminar. Gracias por servirte, adios!
-[pid 5892, ppid 5836] Me piden terminar. Gracias por servirte, adios!
-[pid 5993, ppid 5858] Me piden terminar. Gracias por servirte, adios!
-[pid 5935, ppid 5840] Me piden terminar. Gracias por servirte, adios!
-[pid 5983, ppid 5862] Me piden terminar. Gracias por servirte, adios!
-[pid 5901, ppid 5836] Me piden terminar. Gracias por servirte, adios!
-[pid 6049, ppid 5895] Me piden terminar. Gracias por servirte, adios!
-[pid 6056, ppid 5961] Me piden terminar. Gracias por servirte, adios!
-[pid 6002, ppid 5866] Me piden terminar. Gracias por servirte, adios!
-[pid 6051, ppid 5895] Me piden terminar. Gracias por servirte, adios!
-[pid 6027, ppid 5959] Me piden terminar. Gracias por servirte, adios!
-[pid 6052, ppid 5898] Me piden terminar. Gracias por servirte, adios!
-[pid 6059, ppid 5961] Me piden terminar. Gracias por servirte, adios!
-[pid 6054, ppid 5898] Me piden terminar. Gracias por servirte, adios!
-[pid 6061, ppid 5961] Me piden terminar. Gracias por servirte, adios!
-[pid 6030, ppid 5959] Me piden terminar. Gracias por servirte, adios!
-[pid 6055, ppid 5898] Me piden terminar. Gracias por servirte, adios!
-[pid 6031, ppid 5959] Me piden terminar. Gracias por servirte, adios!
-[pid 5926, ppid 5823] Me piden terminar. Gracias por servirte, adios!
-[pid 5948, ppid 5839] Me piden terminar. Gracias por servirte, adios!
-[pid 6017, ppid 5923] Me piden terminar. Gracias por servirte, adios!
-[pid 5929, ppid 5823] Me piden terminar. Gracias por servirte, adios!
-[pid 6035, ppid 5937] Me piden terminar. Gracias por servirte, adios!
-[pid 6033, ppid 5943] Me piden terminar. Gracias por servirte, adios!
-[pid 5931, ppid 5823] Me piden terminar. Gracias por servirte, adios!
-[pid 6018, ppid 5923] Me piden terminar. Gracias por servirte, adios!
-[pid 6037, ppid 5937] Me piden terminar. Gracias por servirte, adios!
-[pid 5959, ppid 5843] Me piden terminar. Gracias por servirte, adios!
-[pid 5934, ppid 5823] Me piden terminar. Gracias por servirte, adios!
-[pid 6019, ppid 5923] Me piden terminar. Gracias por servirte, adios!
-[pid 6040, ppid 5937] Me piden terminar. Gracias por servirte, adios!
-[pid 5864, ppid 5842] Me piden terminar. Gracias por servirte, adios!
-[pid 5984, ppid 5858] Me piden terminar. Gracias por servirte, adios!
-[pid 6020, ppid 5923] Me piden terminar. Gracias por servirte, adios!
-[pid 5865, ppid 5842] Me piden terminar. Gracias por servirte, adios!
-[pid 6041, ppid 5937] Me piden terminar. Gracias por servirte, adios!
-[pid 5858, ppid 5831] Me piden terminar. Gracias por servirte, adios!
-[pid 6009, ppid 5854] Me piden terminar. Gracias por servirte, adios!
-[pid 6021, ppid 5923] Me piden terminar. Gracias por servirte, adios!
-[pid 6042, ppid 5940] Me piden terminar. Gracias por servirte, adios!
-[pid 6077, ppid 5957] Me piden terminar. Gracias por servirte, adios!
-[pid 6010, ppid 5854] Me piden terminar. Gracias por servirte, adios!
-[pid 5923, ppid 5823] Me piden terminar. Gracias por servirte, adios!
-[pid 6043, ppid 5940] Me piden terminar. Gracias por servirte, adios!
-[pid 6078, ppid 5957] Me piden terminar. Gracias por servirte, adios!
-[pid 5985, ppid 5862] Me piden terminar. Gracias por servirte, adios!
-[pid 6076, ppid 5957] Me piden terminar. Gracias por servirte, adios!
-[pid 6044, ppid 5940] Me piden terminar. Gracias por servirte, adios!
-[pid 5987, ppid 5862] Me piden terminar. Gracias por servirte, adios!
-[pid 6045, ppid 5940] Me piden terminar. Gracias por servirte, adios!
-[pid 5989, ppid 5862] Me piden terminar. Gracias por servirte, adios!
-[pid 6079, ppid 5957] Me piden terminar. Gracias por servirte, adios!
-[pid 5992, ppid 5862] Me piden terminar. Gracias por servirte, adios!
-[pid 6032, ppid 5943] Me piden terminar. Gracias por servirte, adios!
-[pid 5862, ppid 5831] Me piden terminar. Gracias por servirte, adios!
-[pid 6047, ppid 5895] Me piden terminar. Gracias por servirte, adios!
-[pid 6034, ppid 5943] Me piden terminar. Gracias por servirte, adios!
-[pid 6080, ppid 5957] Me piden terminar. Gracias por servirte, adios!
-[pid 6039, ppid 5937] Me piden terminar. Gracias por servirte, adios!
-[pid 6036, ppid 5943] Me piden terminar. Gracias por servirte, adios!
-[pid 6048, ppid 5895] Me piden terminar. Gracias por servirte, adios!
-[pid 5957, ppid 5833] Me piden terminar. Gracias por servirte, adios!
-[pid 6050, ppid 5895] Me piden terminar. Gracias por servirte, adios!
-[pid 5820, ppid 5817] Me piden terminar. Gracias por servirte, adios!
-[pid 5833, ppid 5817] Me piden terminar. Gracias por servirte, adios!
-[pid 6053, ppid 5898] Me piden terminar. Gracias por servirte, adios!
-[pid 6065, ppid 5963] Me piden terminar. Gracias por servirte, adios!
-[pid 5895, ppid 5836] Me piden terminar. Gracias por servirte, adios!
-[pid 6057, ppid 5898] Me piden terminar. Gracias por servirte, adios!
-[pid 5859, ppid 5829] Me piden terminar. Gracias por servirte, adios!
-[pid 5825, ppid 5817] Me piden terminar. Gracias por servirte, adios!
-[pid 5829, ppid 5817] Me piden terminar. Gracias por servirte, adios!
-[pid 5941, ppid 5839] Me piden terminar. Gracias por servirte, adios!
-[pid 6024, ppid 5938] Me piden terminar. Gracias por servirte, adios!
-[pid 5937, ppid 5840] Me piden terminar. Gracias por servirte, adios!
-[pid 6022, ppid 5938] Me piden terminar. Gracias por servirte, adios!
-[pid 5944, ppid 5839] Me piden terminar. Gracias por servirte, adios!
-[pid 5946, ppid 5839] Me piden terminar. Gracias por servirte, adios!
-[pid 6023, ppid 5938] Me piden terminar. Gracias por servirte, adios!
-[pid 6046, ppid 5940] Me piden terminar. Gracias por servirte, adios!
-[pid 6025, ppid 5938] Me piden terminar. Gracias por servirte, adios!
-[pid 5826, ppid 5814] Me piden terminar. Gracias por servirte, adios!
-[pid 6026, ppid 5938] Me piden terminar. Gracias por servirte, adios!
-[pid 5823, ppid 5817] Me piden terminar. Gracias por servirte, adios!
-[pid 5821, ppid 5814] Me piden terminar. Gracias por servirte, adios!
-[pid 5898, ppid 5836] Me piden terminar. Gracias por servirte, adios!
-[pid 5940, ppid 5840] Me piden terminar. Gracias por servirte, adios!
-[pid 5938, ppid 5839] Me piden terminar. Gracias por servirte, adios!
-[pid 5836, ppid 5814] Me piden terminar. Gracias por servirte, adios!
-[pid 5817, ppid 5813] Me piden terminar. Gracias por servirte, adios!
-[pid 6064, ppid 5961] Me piden terminar. Gracias por servirte, adios!
-[pid 5839, ppid 5815] Me piden terminar. Gracias por servirte, adios!
-[pid 6005, ppid 5854] Me piden terminar. Gracias por servirte, adios!
-[pid 6067, ppid 5962] Me piden terminar. Gracias por servirte, adios!
-[pid 6069, ppid 5962] Me piden terminar. Gracias por servirte, adios!
-[pid 6006, ppid 5866] Me piden terminar. Gracias por servirte, adios!
-[pid 6068, ppid 5962] Me piden terminar. Gracias por servirte, adios!
-[pid 6071, ppid 5962] Me piden terminar. Gracias por servirte, adios!
-[pid 6070, ppid 5962] Me piden terminar. Gracias por servirte, adios!
-[pid 6060, ppid 5963] Me piden terminar. Gracias por servirte, adios!
-[pid 6072, ppid 5964] Me piden terminar. Gracias por servirte, adios!
-[pid 6007, ppid 5854] Me piden terminar. Gracias por servirte, adios!
-[pid 6073, ppid 5964] Me piden terminar. Gracias por servirte, adios!
-[pid 5962, ppid 5843] Me piden terminar. Gracias por servirte, adios!
-[pid 5963, ppid 5819] Me piden terminar. Gracias por servirte, adios!
-[pid 5854, ppid 5831] Me piden terminar. Gracias por servirte, adios!
-[pid 6074, ppid 5964] Me piden terminar. Gracias por servirte, adios!
-[pid 6008, ppid 5866] Me piden terminar. Gracias por servirte, adios!
-[pid 6058, ppid 5961] Me piden terminar. Gracias por servirte, adios!
-[pid 5831, ppid 5814] Me piden terminar. Gracias por servirte, adios!
-[pid 6011, ppid 5866] Me piden terminar. Gracias por servirte, adios!
-[pid 5961, ppid 5819] Me piden terminar. Gracias por servirte, adios!
-[pid 6075, ppid 5964] Me piden terminar. Gracias por servirte, adios!
-[pid 6081, ppid 5964] Me piden terminar. Gracias por servirte, adios!
-[pid 5866, ppid 5842] Me piden terminar. Gracias por servirte, adios!
-[pid 6038, ppid 5943] Me piden terminar. Gracias por servirte, adios!
-[pid 5819, ppid 5814] Me piden terminar. Gracias por servirte, adios!
-[pid 5842, ppid 5815] Me piden terminar. Gracias por servirte, adios!
-[pid 5814, ppid 5813] Me piden terminar. Gracias por servirte, adios!
-[pid 5943, ppid 5840] Me piden terminar. Gracias por servirte, adios!
-[pid 5964, ppid 5843] Me piden terminar. Gracias por servirte, adios!
-[pid 5840, ppid 5815] Me piden terminar. Gracias por servirte, adios!
-[pid 5843, ppid 5815] Me piden terminar. Gracias por servirte, adios!
-[pid 5815, ppid 5813] Me piden terminar. Gracias por servirte, adios!
-[pid 5813, ppid 5812] Mision cumplida. Gracias por servirte, adios!
-[pid 5813, ppid 5812] Tarea completada. La resolvio el Meeseeks (5857, 5838, 4, 4)
-Completada | Duración: 0.8801 s | sin esperas: 0.0801 s
-Meeseeks creados: 262 | nivel maximo: 5
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (15358, 15357, 1, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15359, 15358, 2, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15360, 15358, 2, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15362, 15358, 2, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15363, 15358, 2, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15361, 15358, 2, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15381, 15360, 3, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15376, 15359, 3, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15375, 15361, 3, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15380, 15363, 3, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15372, 15359, 3, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15379, 15359, 3, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15371, 15361, 3, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15368, 15359, 3, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15378, 15363, 3, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15383, 15360, 3, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15385, 15362, 3, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15382, 15361, 3, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15374, 15363, 3, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15384, 15362, 3, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15365, 15359, 3, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15370, 15363, 3, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15367, 15361, 3, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15387, 15362, 3, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15366, 15363, 3, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15386, 15362, 3, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15388, 15362, 3, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15364, 15361, 3, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15373, 15360, 3, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15377, 15360, 3, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15369, 15360, 3, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15399, 15380, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15403, 15379, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15402, 15381, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15401, 15378, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15394, 15380, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15406, 15379, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15395, 15378, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15393, 15378, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15405, 15379, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15407, 15381, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15404, 15381, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15392, 15380, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15408, 15379, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15415, 15382, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15421, 15374, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15429, 15375, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15467, 15366, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15433, 15375, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15472, 15366, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15438, 15368, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15442, 15368, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15439, 15375, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15478, 15364, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15398, 15381, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15450, 15371, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15423, 15374, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15409, 15382, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15424, 15377, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15410, 15376, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15427, 15374, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15453, 15371, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15411, 15382, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15452, 15368, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15455, 15371, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15428, 15377, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15460, 15371, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15412, 15376, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15432, 15377, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15414, 15382, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15436, 15377, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15419, 15374, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15506, 15388, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15440, 15377, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15492, 15384, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15437, 15370, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15486, 15365, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15456, 15373, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15391, 15378, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15499, 15367, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15510, 15386, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15509, 15386, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15441, 15370, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15511, 15386, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15459, 15373, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15512, 15386, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15443, 15370, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15513, 15386, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15500, 15388, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15466, 15369, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15444, 15368, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15470, 15369, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15445, 15373, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15502, 15367, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15487, 15365, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15491, 15387, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15493, 15387, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15495, 15387, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15504, 15388, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15508, 15388, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15501, 15367, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15505, 15367, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15503, 15388, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15397, 15378, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15396, 15380, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15400, 15379, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15497, 15387, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15473, 15369, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15468, 15385, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15446, 15371, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15413, 15376, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15475, 15369, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15447, 15370, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15416, 15376, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15479, 15369, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15449, 15373, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15418, 15376, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15389, 15380, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15451, 15370, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15498, 15387, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15420, 15372, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15458, 15366, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15430, 15372, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15417, 15382, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15431, 15374, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15422, 15372, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15434, 15372, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15461, 15366, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15425, 15372, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15463, 15366, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15435, 15375, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15426, 15375, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15448, 15368, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15454, 15373, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15457, 15385, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15481, 15364, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15465, 15383, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15462, 15385, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15483, 15364, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15469, 15383, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15485, 15364, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15464, 15385, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15474, 15383, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15390, 15381, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15489, 15364, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15476, 15383, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15471, 15385, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15480, 15383, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15488, 15384, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15477, 15365, 4, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15507, 15367, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15490, 15384, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15482, 15365, 4, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15484, 15365, 4, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15494, 15384, 4, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15496, 15384, 4, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15522, 15402, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15519, 15402, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15529, 15395, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15530, 15394, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15532, 15395, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15536, 15394, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15537, 15394, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15533, 15395, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15535, 15395, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15520, 15399, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15516, 15402, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15538, 15395, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15534, 15394, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15543, 15406, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15531, 15394, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15541, 15406, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15514, 15399, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15542, 15406, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15517, 15399, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15521, 15403, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15540, 15406, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15518, 15403, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15539, 15406, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15515, 15403, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15544, 15401, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15547, 15401, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15548, 15401, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15527, 15403, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15549, 15393, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15524, 15403, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15526, 15399, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15545, 15401, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15546, 15401, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15550, 15393, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15525, 15402, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15523, 15399, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15551, 15393, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15552, 15393, 5, 4)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15553, 15393, 5, 5)
+[pid 15506] Resolví la tarea
+[pid 15506, ppid 15388] Misión cumplida. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15528, 15402, 5, 5)
+[pid 15499] Resolví la tarea
+[pid 15499, ppid 15367] Misión cumplida. ¡Gracias por servirte, adiós!
+[pid 15501, ppid 15367] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15554, 15437, 5, 1)
+[pid 15502, ppid 15367] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15505, ppid 15367] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15555, 15437, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15556, 15437, 5, 3)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15557, 15437, 5, 4)
+[pid 15507, ppid 15367] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15367, ppid 15361] Misión cumplida. ¡Gracias por servirte, adiós!
+[pid 15504, ppid 15388] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15503, ppid 15388] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15478, ppid 15364] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15450, ppid 15371] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15453, ppid 15371] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15481, ppid 15364] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15455, ppid 15371] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15415, ppid 15382] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15429, ppid 15375] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15417, ppid 15382] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15433, ppid 15375] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15414, ppid 15382] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15439, ppid 15375] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15446, ppid 15371] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15559, 15495, 5, 1)
+[pid 15409, ppid 15382] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15564, 15497, 5, 1)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15565, 15497, 5, 2)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15566, 15497, 5, 3)
+[pid 15500, ppid 15388] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15508, ppid 15388] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15567, 15497, 5, 4)
+[pid 15460, ppid 15371] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15568, 15497, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15573, 15479, 5, 1)
+[pid 15426, ppid 15375] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15574, 15479, 5, 2)
+[pid 15435, ppid 15375] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15575, 15447, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15577, 15449, 5, 1)
+[pid 15371, ppid 15361] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15578, 15479, 5, 4)
+[pid 15375, ppid 15361] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15580, 15479, 5, 5)
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15558, 15437, 5, 5)
+[pid 15388, ppid 15362] Misión cumplida. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15581, 15449, 5, 3)
+[pid 15483, ppid 15364] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15583, 15449, 5, 5)
+[pid 15457, ppid 15385] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15584, 15475, 5, 1)
+[pid 15488, ppid 15384] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15585, 15475, 5, 2)
+[pid 15462, ppid 15385] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15586, 15475, 5, 3)
+[pid 15490, ppid 15384] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15464, ppid 15385] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15587, 15475, 5, 4)
+[pid 15492, ppid 15384] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15471, ppid 15385] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15485, ppid 15364] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15494, ppid 15384] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15510, ppid 15386] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15588, 15475, 5, 5)
+[pid 15411, ppid 15382] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15496, ppid 15384] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15511, ppid 15386] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15382, ppid 15361] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15384, ppid 15362] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15512, ppid 15386] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15513, ppid 15386] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15489, ppid 15364] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15491, ppid 15387] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15364, ppid 15361] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15493, ppid 15387] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15361, ppid 15358] Misión cumplida. ¡Gracias por servirte, adiós!
+[pid 15498, ppid 15387] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15564, ppid 15497] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15559, ppid 15495] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15565, ppid 15497] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15448, ppid 15368] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15589, ppid 15434] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15566, ppid 15497] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15456, ppid 15373] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15476, ppid 15383] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15567, ppid 15497] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15441, ppid 15370] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15477, ppid 15365] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15480, ppid 15383] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15568, ppid 15497] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15482, ppid 15365] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15463, ppid 15366] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15516, ppid 15402] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15405, ppid 15379] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15484, ppid 15365] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15519, ppid 15402] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15408, ppid 15379] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15397, ppid 15378] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15486, ppid 15365] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15522, ppid 15402] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15487, ppid 15365] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15528, ppid 15402] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15438, ppid 15368] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15551, ppid 15393] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15396, ppid 15380] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15529, ppid 15395] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15532, ppid 15395] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15442, ppid 15368] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15549, ppid 15393] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15428, ppid 15377] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15550, ppid 15393] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15452, ppid 15368] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15404, ppid 15381] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15538, ppid 15395] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15552, ppid 15393] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15407, ppid 15381] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15420, ppid 15372] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15553, ppid 15393] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15421, ppid 15374] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15412, ppid 15376] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15393, ppid 15378] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15533, ppid 15395] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15392, ppid 15380] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15413, ppid 15376] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15535, ppid 15395] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15530, ppid 15394] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15416, ppid 15376] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15531, ppid 15394] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15523, ppid 15399] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15418, ppid 15376] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15536, ppid 15394] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15534, ppid 15394] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15395, ppid 15378] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15400, ppid 15379] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15537, ppid 15394] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15520, ppid 15399] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15394, ppid 15380] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15419, ppid 15374] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15424, ppid 15377] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15515, ppid 15403] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15525, ppid 15402] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15470, ppid 15369] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15465, ppid 15383] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15402, ppid 15381] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15466, ppid 15369] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15518, ppid 15403] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15389, ppid 15380] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15521, ppid 15403] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15469, ppid 15383] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15468, ppid 15385] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15474, ppid 15383] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15423, ppid 15374] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15539, ppid 15406] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15473, ppid 15369] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15427, ppid 15374] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15540, ppid 15406] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15436, ppid 15377] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15365, ppid 15359] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15541, ppid 15406] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15459, ppid 15373] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15430, ppid 15372] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15440, ppid 15377] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15542, ppid 15406] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15543, ppid 15406] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15422, ppid 15372] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15385, ppid 15362] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15563, ppid 15495] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15425, ppid 15372] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15383, ppid 15360] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15497, ppid 15387] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15406, ppid 15379] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15410, ppid 15376] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15517, ppid 15399] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15560, ppid 15495] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15544, ppid 15401] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15376, ppid 15359] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15398, ppid 15381] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15547, ppid 15401] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15548, ppid 15401] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15432, ppid 15377] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15472, ppid 15366] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15377, ppid 15360] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15458, ppid 15366] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15454, ppid 15373] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15445, ppid 15373] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15444, ppid 15368] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15514, ppid 15399] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15461, ppid 15366] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15368, ppid 15359] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15391, ppid 15378] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15573, ppid 15479] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15451, ppid 15370] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15584, ppid 15475] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15509, ppid 15386] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15574, ppid 15479] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15467, ppid 15366] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15386, ppid 15362] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15578, ppid 15479] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15585, ppid 15475] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15366, ppid 15363] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15580, ppid 15479] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15431, ppid 15374] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15443, ppid 15370] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15586, ppid 15475] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15374, ppid 15363] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15579, 15449, 5, 2)
+[pid 15526, ppid 15399] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15572, 15447, 5, 4)
+[pid 15577, ppid 15449] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15569, 15447, 5, 1)
+[pid 15399, ppid 15380] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15583, ppid 15449] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15562, ppid 15495] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15581, ppid 15449] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15546, ppid 15401] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15380, ppid 15363] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15390, ppid 15381] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15587, ppid 15475] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15381, ppid 15360] Me piden terminar. ¡Gracias por servirte, adiós!
+Hi, I'm Mr. Meeseeks! Look at Meeeee. (15570, 15447, 5, 2)
+[pid 15590, ppid 15434] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15556, ppid 15437] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15570, ppid 15447] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15569, ppid 15447] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15561, ppid 15495] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15571, ppid 15447] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15558, ppid 15437] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15579, ppid 15449] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15588, ppid 15475] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15575, ppid 15447] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15591, ppid 15434] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15555, ppid 15437] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15434, ppid 15372] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15576, ppid 15479] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15372, ppid 15359] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15475, ppid 15369] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15557, ppid 15437] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15479, ppid 15369] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15545, ppid 15401] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15369, ppid 15360] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15572, ppid 15447] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15527, ppid 15403] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15554, ppid 15437] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15447, ppid 15370] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15401, ppid 15378] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15524, ppid 15403] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15378, ppid 15363] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15582, ppid 15449] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15495, ppid 15387] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15403, ppid 15379] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15387, ppid 15362] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15449, ppid 15373] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15437, ppid 15370] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15379, ppid 15359] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15362, ppid 15358] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15370, ppid 15363] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15359, ppid 15358] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15373, ppid 15360] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15363, ppid 15358] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15360, ppid 15358] Me piden terminar. ¡Gracias por servirte, adiós!
+[pid 15358, ppid 15357] Misión cumplida. ¡Gracias por servirte, adiós!
+[pid 15358, ppid 15357] Tarea completada. La resolvió el Meeseeks (15499, 15367, 4, 1)
+Completada | Duración: 0.8647 s | sin esperas: 0.0647 s
+Meeseeks creados: 224 | nivel máximo: 5
   nivel 1: 1 Meeseeks
   nivel 2: 5 Meeseeks
   nivel 3: 25 Meeseeks
   nivel 4: 125 Meeseeks
-  nivel 5: 106 Meeseeks
+  nivel 5: 68 Meeseeks
 Box> 
 ===== INFORME FINAL =====
- 1. "hola" | completada | total 0.880 s | real (sin esperas) 0.080 s | Meeseeks: 262
+ 1. "hola" | completada | total 0.865 s | real (sin esperas) 0.065 s | Meeseeks: 224
 Solicitudes: 1 | completadas: 1 | no completadas: 0
 Box terminó.

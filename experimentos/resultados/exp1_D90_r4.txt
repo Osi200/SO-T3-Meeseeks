@@ -1,14 +1,14 @@
 Box> Tiempo fijo: 0.20 s
 Box> Dificultad fija: 90.0
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (3566, 3565, 1, 1) D=90.0
-[pid 3566] Resolvi la tarea
-[pid 3566, ppid 3565] Mision cumplida. Gracias por servirte, adios!
-[pid 3566, ppid 3565] Tarea completada. La resolvio el Meeseeks (3566, 3565, 1, 1)
-Completada | Duración: 0.2018 s | sin esperas: 0.0018 s
-Meeseeks creados: 1 | nivel maximo: 1
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (13352, 13351, 1, 1)
+[pid 13352] Resolví la tarea
+[pid 13352, ppid 13351] Misión cumplida. ¡Gracias por servirte, adiós!
+[pid 13352, ppid 13351] Tarea completada. La resolvió el Meeseeks (13352, 13351, 1, 1)
+Completada | Duración: 0.2501 s | sin esperas: 0.0501 s
+Meeseeks creados: 1 | nivel máximo: 1
   nivel 1: 1 Meeseeks
 Box> 
 ===== INFORME FINAL =====
- 1. "hola" | completada | total 0.202 s | real (sin esperas) 0.002 s | Meeseeks: 1
+ 1. "hola" | completada | total 0.250 s | real (sin esperas) 0.050 s | Meeseeks: 1
 Solicitudes: 1 | completadas: 1 | no completadas: 0
 Box terminó.

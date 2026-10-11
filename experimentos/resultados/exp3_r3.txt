@@ -1,18 +1,18 @@
 Box> Tiempo fijo: 0.20 s
 Box> Dificultad fija: 90.0
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (8001, 8000, 1, 1) D=90.0
-[pid 8001] Resolvi la tarea
-[pid 8001, ppid 8000] Mision cumplida. Gracias por servirte, adios!
-[pid 8001, ppid 8000] Tarea completada. La resolvio el Meeseeks (8001, 8000, 1, 1)
-Completada | Duración: 0.2225 s | sin esperas: 0.0225 s
-Meeseeks creados: 1 | nivel maximo: 1
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (16144, 16143, 1, 1)
+[pid 16144] Resolví la tarea
+[pid 16144, ppid 16143] Misión cumplida. ¡Gracias por servirte, adiós!
+[pid 16144, ppid 16143] Tarea completada. La resolvió el Meeseeks (16144, 16143, 1, 1)
+Completada | Duración: 0.2141 s | sin esperas: 0.0141 s
+Meeseeks creados: 1 | nivel máximo: 1
   nivel 1: 1 Meeseeks
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (8002, 8000, 1, 1)
-[pid 8002, ppid 8000] Resultado: 2
-Completada | Duración: 0.0210 s | sin esperas: 0.0210 s
-Meeseeks creados: 1 | nivel maximo: 1
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (16145, 16143, 1, 1)
+[pid 16145, ppid 16143] Resultado: 2
+Completada | Duración: 0.0281 s | sin esperas: 0.0281 s
+Meeseeks creados: 1 | nivel máximo: 1
   nivel 1: 1 Meeseeks
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (8003, 8000, 1, 1)
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (16146, 16143, 1, 1)
 node-compile-cache
 systemd-private-440acc1253a643e8a746ee63d8257f47-colord.service-LwpF9F
 systemd-private-440acc1253a643e8a746ee63d8257f47-fwupd.service-JZ99sc
@@ -26,25 +26,25 @@ systemd-private-440acc1253a643e8a746ee63d8257f47-upower.service-6KNcOS
 tracker-extract-3-files.1000
 tracker-extract-3-files.111
 vscode-ah-63171a94bd85
-[pid 8003, ppid 8000] Programa 'ls' termino con exito (codigo 0)
-Completada | Duración: 0.0230 s | sin esperas: 0.0230 s
-Meeseeks creados: 1 | nivel maximo: 1
+[pid 16146, ppid 16143] Programa 'ls' terminó con éxito (código 0)
+Completada | Duración: 0.0206 s | sin esperas: 0.0206 s
+Meeseeks creados: 1 | nivel máximo: 1
   nivel 1: 1 Meeseeks
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (8005, 8000, 1, 1)
-[pid 8005, ppid 8000] Programa 'false' fallo (codigo 1)
-No completada | Duración: 0.0210 s | sin esperas: 0.0210 s
-Meeseeks creados: 1 | nivel maximo: 1
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (16148, 16143, 1, 1)
+[pid 16148, ppid 16143] Programa 'false' falló (código 1)
+No completada | Duración: 0.0207 s | sin esperas: 0.0207 s
+Meeseeks creados: 1 | nivel máximo: 1
   nivel 1: 1 Meeseeks
-Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (8007, 8000, 1, 1)
-[pid 8007, ppid 8000] Error: division entre cero
-No completada | Duración: 0.0213 s | sin esperas: 0.0213 s
-Meeseeks creados: 1 | nivel maximo: 1
+Box> Hi, I'm Mr. Meeseeks! Look at Meeeee. (16150, 16143, 1, 1)
+[pid 16150, ppid 16143] Error: división entre cero
+No completada | Duración: 0.0207 s | sin esperas: 0.0207 s
+Meeseeks creados: 1 | nivel máximo: 1
   nivel 1: 1 Meeseeks
 Box> 
 ===== INFORME FINAL =====
- 1. "hola" | completada | total 0.222 s | real (sin esperas) 0.022 s | Meeseeks: 1
- 2. "calc (4+3*2)/5" | completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
- 3. "exec ls /tmp" | completada | total 0.023 s | real (sin esperas) 0.023 s | Meeseeks: 1
+ 1. "hola" | completada | total 0.214 s | real (sin esperas) 0.014 s | Meeseeks: 1
+ 2. "calc (4+3*2)/5" | completada | total 0.028 s | real (sin esperas) 0.028 s | Meeseeks: 1
+ 3. "exec ls /tmp" | completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
  4. "exec false" | no completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
  5. "calc 10/0" | no completada | total 0.021 s | real (sin esperas) 0.021 s | Meeseeks: 1
 Solicitudes: 5 | completadas: 3 | no completadas: 2
