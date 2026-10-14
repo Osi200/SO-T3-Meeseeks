@@ -21,7 +21,7 @@
 #include <semaphore.h>   /* sem_t, sem_init, sem_wait, sem_post */
 
 #define MAX_PROCS_DEF   60    /* tope de Meeseeks vivos a la vez (configurable por argumento) */
-#define CAOS_SEG_DEF    300   /* caos planetario: 5 minutos (configurable por argumento) */
+#define CAOS_SEG_DEF    300   /* explosión de meeseeks: 5 minutos (configurable por argumento) */
 #define AGING           5.0   /* cuanto sube D por nivel (la tarea se simplifica) */
 #define NERF_DADO       0.1   /* baja la probabilidad del dado */
 #define MAX_NIV_STATS   64    /* niveles que se contabilizan por separado */
@@ -402,7 +402,7 @@ static Reporte meeseeks_arbol(const char *solicitud, double D, int N, int i) {
 
     if (!reservar_hijos(hijos_necesarios)) {
         /* Sin cupo: no puede pedir ayuda. Duerme sin gastar CPU hasta que
-           llegue SIGTERM (el caso imposible espera el caos planetario) */
+           llegue SIGTERM (el caso imposible espera el explosión de meeseeks) */
         pause();
         Reporte vacio = {0, 0, 0, 0, 0, 0.0};
         return vacio;
@@ -604,7 +604,7 @@ int main(int argc, char *argv[]) {
         }
         if (pid == 0) meeseeks(linea, 1, 1);   /* hijo: N=1, i=1 */
 
-        /* Espera con limite de tiempo: si se cumple, caos planetario */
+        /* Espera con limite de tiempo: si se cumple, explosión de meeseeks */
         int estado = 0, ok = 0, caos = 0;
         double limite = t0 + caos_seg;
         while (1) {
@@ -639,7 +639,7 @@ int main(int argc, char *argv[]) {
         }
 
         printf("%s | Duración: %.4f s | sin esperas: %.4f s\n",
-               caos ? "No completada (caos planetario)" : (ok ? "Completada" : "No completada"),
+               caos ? "No completada (explosión de meeseeks)" : (ok ? "Completada" : "No completada"),
                dur, real);
         printf("Meeseeks creados: %d | nivel maximo: %d\n", comp->total, comp->max_nivel);
         for (int n = 1; n <= comp->max_nivel && n < MAX_NIV_STATS; n++)
@@ -654,7 +654,7 @@ int main(int argc, char *argv[]) {
         if (g->completada) comp_ok++;
         printf("%2d. \"%s\" | %s | total %.3f s | real (sin esperas) %.3f s | Meeseeks: %d\n",
                k + 1, g->texto,
-               g->completada ? "completada" : (g->caos ? "caos planetario" : "no completada"),
+               g->completada ? "completada" : (g->caos ? "explosión de meeseeks" : "no completada"),
                g->duracion, g->duracion_real, g->meeseeks);
     }
     printf("Solicitudes: %d | completadas: %d | no completadas: %d\n",

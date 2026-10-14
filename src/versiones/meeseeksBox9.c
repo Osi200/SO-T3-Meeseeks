@@ -30,7 +30,7 @@
 
 
 #define MAX_PROCS_DEF   60     /* tope de Meeseeks vivos a la vez (configurable) */
-#define CAOS_SEG_DEF    300    /* caos planetario: 5 minutos (configurable) */
+#define CAOS_SEG_DEF    300    /* explosión de meeseeks: 5 minutos (configurable) */
 
 
 
@@ -559,7 +559,7 @@ int main(int argc, char *argv[]) {
         }
         if (pid == 0) meeseeks(linea, 1, 1);   /* hijo: N=1, i=1 */
 
-        /* Espera con limite de tiempo: si se cumple, caos planetario */
+        /* Espera con limite de tiempo: si se cumple, explosión de meeseeks */
         int estado = 0, ok = 0, caos = 0;
         double limite = t0 + caos_seg;
         while (1) {
@@ -580,7 +580,7 @@ int main(int argc, char *argv[]) {
         }
 
         printf("%s | Duración: %.4f s\n",
-               caos ? "No completada (caos planetario)" : (ok ? "Completada" : "No completada"),
+               caos ? "No completada (explosión de meeseeks)" : (ok ? "Completada" : "No completada"),
                ahora() - t0);
         printf("Meeseeks creados: %d | nivel maximo: %d\n", comp->total, comp->max_nivel);
         for (int n = 1; n <= comp->max_nivel && n < MAX_NIV_STATS; n++)

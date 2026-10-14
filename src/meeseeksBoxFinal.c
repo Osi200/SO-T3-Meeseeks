@@ -16,7 +16,7 @@
  * Uso:
  *   ./box [tope_procesos] [segundos_caos] [-v]
  *     tope_procesos : máximo de Meeseeks vivos a la vez (por defecto 60)
- *     segundos_caos : tiempo máximo antes del "caos planetario" (por defecto 300)
+ *     segundos_caos : tiempo máximo antes del "explosión de meeseeks" (por defecto 300)
  *     -v            : muestra la dificultad D en el saludo (para depurar)
  *
  *   Comandos de configuración dentro de Box:
@@ -46,7 +46,7 @@
 #include <semaphore.h>   /* sem_t, sem_init, sem_wait, sem_post */
 
 #define MAX_PROCS_DEF   60    /* tope de Meeseeks vivos a la vez (configurable por argumento) */
-#define CAOS_SEG_DEF    300   /* caos planetario: 5 minutos (configurable por argumento) */
+#define CAOS_SEG_DEF    300   /* explosión de meeseeks: 5 minutos (configurable por argumento) */
 #define AGING           5.0   /* cuánto sube D por nivel (la tarea se simplifica) */
 #define NERF_DADO       0.1   /* factor que reduce la probabilidad del dado */
 #define MAX_NIV_STATS   64    /* niveles que se contabilizan por separado */
@@ -482,7 +482,7 @@ static int evaluar(const char *texto, long long *res) {
  * CASO IMPOSIBLE: si D == 0, el aging NO lo sube (0 se queda en 0), y el dado
  * nunca acierta (ningún número es menor que 0). Por eso la tarea no se
  * resuelve jamás, sin tener que programar un caso especial. Lo que evita el
- * colapso es el tope de procesos más el caos planetario.
+ * colapso es el tope de procesos más el explosión de meeseeks.
  *----------------------------------------------------------------------------*/
 
 /* Dificultad con la que arranca el Meeseeks raíz */
@@ -550,7 +550,7 @@ static double esperar_trabajo(void) {
  *      (sin ese wait, un padre moría antes que sus hijos y estos eran
  *      adoptados por init).
  *
- * El mismo mecanismo se usa para el CAOS PLANETARIO: Box manda SIGTERM al
+ * El mismo mecanismo se usa para el explosión de meeseeks: Box manda SIGTERM al
  * Meeseeks raíz y la cascada baja por todo el árbol.
  *
  * Se usa write() y _exit() en vez de printf() y exit() porque solo algunas
@@ -1079,7 +1079,7 @@ static int decidir_dificultad(void) {
 
 /*
  * Espera al Meeseeks raíz con un límite de tiempo. Si se cumple, se declara el
- * CAOS PLANETARIO: se manda SIGTERM al raíz y la cascada de señales termina
+ * explosión de meeseeks: se manda SIGTERM al raíz y la cascada de señales termina
  * todo el árbol (sección 7).
  *
  * Se usa waitpid con WNOHANG (no bloquea) y se revisa cada 20 ms: así Box
@@ -1104,7 +1104,7 @@ static void esperar_con_limite(pid_t pid, double t0, int caos_seg, int *ok, int 
         }
 
         if (ahora() > limite) {
-            printf("CAOS PLANETARIO: se acabó el tiempo (%d s). Terminando todo.\n", caos_seg);
+            printf("explosión de meeseeks: se acabó el tiempo (%d s). Terminando todo.\n", caos_seg);
             fflush(stdout);
             kill(pid, SIGTERM);        /* la cascada baja por todo el árbol */
             waitpid(pid, &estado, 0);  /* espera a que el raíz termine de despedirse */
@@ -1211,7 +1211,7 @@ int main(int argc, char *argv[]) {
 
         /* Resumen de esta solicitud */
         if (caos) {
-            printf("No completada (caos planetario)");
+            printf("No completada (explosión de meeseeks)");
         } else if (ok) {
             printf("Completada");
         } else {
@@ -1237,7 +1237,7 @@ int main(int argc, char *argv[]) {
             completadas++;
             estado = "completada";
         } else if (g->caos) {
-            estado = "caos planetario";
+            estado = "explosión de meeseeks";
         } else {
             estado = "no completada";
         }
